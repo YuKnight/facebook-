@@ -1,0 +1,1463 @@
+2018-08-29 10:33:19.300 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 10:33:19.556 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 10:34:04.905 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 10:34:04.936 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 10:34:30.358 +08:00 [Information] App已是最新版本
+2018-08-29 10:35:11.761 +08:00 [Information] App已是最新版本
+2018-08-29 10:35:35.935 +08:00 [Information] 连接成功;key:ba60661e-7f1b-46cf-8e37-48549c2857bb
+2018-08-29 10:35:35.949 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 10:35:46.485 +08:00 [Information] App已是最新版本
+2018-08-29 10:39:53.980 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 10:39:54.023 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 10:40:21.389 +08:00 [Information] App已是最新版本
+2018-08-29 10:41:11.596 +08:00 [Information] 连接成功;key:dc59e116-5e27-4233-a49c-cb655d6ebf35
+2018-08-29 10:41:11.608 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 10:42:57.135 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 10:42:57.163 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 10:43:19.828 +08:00 [Information] App已是最新版本
+2018-08-29 10:44:26.922 +08:00 [Information] App已是最新版本
+2018-08-29 10:46:09.530 +08:00 [Information] App已是最新版本
+2018-08-29 10:47:14.945 +08:00 [Information] App已是最新版本
+2018-08-29 10:47:57.643 +08:00 [Information] App已是最新版本
+2018-08-29 10:48:13.601 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 10:48:13.640 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 10:48:51.496 +08:00 [Information] App已是最新版本
+2018-08-29 10:49:05.028 +08:00 [Information] App已是最新版本
+2018-08-29 10:50:59.847 +08:00 [Information] 连接成功;key:02a3a0eb-3398-4853-a12b-376c2f911d7d
+2018-08-29 10:50:59.860 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 10:51:07.123 +08:00 [Information] App已是最新版本
+2018-08-29 10:52:47.910 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 10:52:47.940 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 10:54:58.946 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 10:54:58.997 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 10:57:04.304 +08:00 [Information] App已是最新版本
+2018-08-29 10:57:55.606 +08:00 [Information] App已是最新版本
+2018-08-29 10:58:27.197 +08:00 [Information] App已是最新版本
+2018-08-29 10:59:29.642 +08:00 [Information] App已是最新版本
+2018-08-29 10:59:52.546 +08:00 [Information] App已是最新版本
+2018-08-29 11:01:54.756 +08:00 [Information] App已是最新版本
+2018-08-29 11:02:32.632 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 11:02:32.687 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 11:03:43.349 +08:00 [Information] App已是最新版本
+2018-08-29 11:05:03.380 +08:00 [Information] 连接成功;key:4b1cc1d9-001c-4f9a-8fa5-03e3fd6f22c4
+2018-08-29 11:05:03.396 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 11:05:10.112 +08:00 [Information] App已是最新版本
+2018-08-29 11:11:07.614 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 11:11:07.642 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 11:12:09.798 +08:00 [Information] App已是最新版本
+2018-08-29 11:17:05.396 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 11:17:05.448 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 11:18:22.696 +08:00 [Information] 连接成功;key:74e63fb2-f6c0-44ae-99e5-7aa387aa7d14
+2018-08-29 11:18:22.707 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 11:18:32.935 +08:00 [Information] App已是最新版本
+2018-08-29 11:41:59.600 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 11:41:59.644 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 11:47:58.212 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 11:47:58.246 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 11:49:20.889 +08:00 [Information] 连接成功;key:1cf6c7b3-4ed4-41b3-9df0-e671e8e9aff9
+2018-08-29 11:49:20.915 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 11:49:37.107 +08:00 [Information] App已是最新版本
+2018-08-29 11:51:43.846 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 11:51:43.872 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 11:52:06.279 +08:00 [Information] App已是最新版本
+2018-08-29 11:52:32.573 +08:00 [Information] 连接成功;key:b27ffae7-b4e9-4ed0-b3f1-2a67eb1b3a7c
+2018-08-29 11:52:32.588 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 11:52:38.241 +08:00 [Information] App已是最新版本
+2018-08-29 11:53:52.690 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 11:53:52.743 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 11:54:18.792 +08:00 [Information] App已是最新版本
+2018-08-29 11:57:14.720 +08:00 [Information] App已是最新版本
+2018-08-29 12:55:02.230 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 12:55:02.294 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 12:56:29.646 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 12:56:29.695 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 12:57:16.774 +08:00 [Information] App已是最新版本
+2018-08-29 12:58:53.326 +08:00 [Information] App已是最新版本
+2018-08-29 12:59:00.987 +08:00 [Information] App已是最新版本
+2018-08-29 13:45:36.362 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 13:45:36.397 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 13:45:54.718 +08:00 [Information] App已是最新版本
+2018-08-29 13:46:51.369 +08:00 [Information] App已是最新版本
+2018-08-29 13:47:39.173 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 13:47:39.216 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 13:48:01.969 +08:00 [Information] App已是最新版本
+2018-08-29 13:49:46.256 +08:00 [Information] App已是最新版本
+2018-08-29 13:54:45.485 +08:00 [Information] App已是最新版本
+2018-08-29 13:57:32.537 +08:00 [Information] App已是最新版本
+2018-08-29 13:58:28.985 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 13:58:29.012 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 13:59:19.968 +08:00 [Information] 连接成功;key:d8bc111b-7575-4c98-bab8-124343cfe4ea
+2018-08-29 13:59:19.982 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 13:59:34.330 +08:00 [Information] App已是最新版本
+2018-08-29 14:10:07.461 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 14:10:07.492 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 14:23:24.594 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 14:23:24.663 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 14:24:18.171 +08:00 [Error] 轮询模拟器的主窗口句柄超时！
+2018-08-29 14:24:18.171 +08:00 [Error] SetParent result:0, vmIndex:0
+2018-08-29 14:24:18.171 +08:00 [Error] MoveWindow result:0, vmIndex:0
+2018-08-29 14:24:28.604 +08:00 [Information] 连接成功;key:1eea917a-e626-46dc-8eb0-71781aa8d4f3
+2018-08-29 14:24:28.616 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 14:24:33.480 +08:00 [Information] App已是最新版本
+2018-08-29 14:31:43.496 +08:00 [Information] App已是最新版本
+2018-08-29 14:58:34.145 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 14:58:34.209 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 14:59:16.552 +08:00 [Information] 连接成功;key:fb5c5c4e-7c29-45f1-84c1-462e8ac2a5bb
+2018-08-29 14:59:16.569 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 14:59:30.973 +08:00 [Information] App已是最新版本
+2018-08-29 15:08:33.603 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 15:08:33.684 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 15:08:55.322 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 15:08:55.445 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 15:15:24.328 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 15:15:24.455 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 15:16:06.067 +08:00 [Information] 连接成功;key:c35ead68-5f9b-4269-967c-1af29917fb01
+2018-08-29 15:16:06.080 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 15:16:20.782 +08:00 [Information] App已是最新版本
+2018-08-29 15:48:52.213 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 15:48:52.262 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 15:54:02.430 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 15:54:02.519 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 15:54:57.599 +08:00 [Information] 连接成功;key:5001437f-f39b-4b3e-a801-a5a6b8a6cdef
+2018-08-29 15:54:57.610 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 15:55:16.182 +08:00 [Information] App已是最新版本
+2018-08-29 16:17:20.142 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 16:17:20.205 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 16:29:57.622 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 16:29:57.654 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 16:31:10.324 +08:00 [Information] 连接成功;key:cf99d2ef-c642-41b3-84f1-0903de4e913b
+2018-08-29 16:31:10.339 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 16:32:30.414 +08:00 [Information] App已是最新版本
+2018-08-29 17:06:09.924 +08:00 [Error] System.ArgumentOutOfRangeException: startIndex 不能大于字符串长度。
+参数名: startIndex
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 CmdProcessLib.ProcessHelper.FilterString(String context, String startStr, String endStr, Boolean isDelete_r_n) 位置 F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Utils\ProcessHelper.cs:行号 220
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.dgPhoneManagement_MouseLeftButtonUp(Object sender, MouseButtonEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 170
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.PhoneManagementView_Loaded(Object sender, RoutedEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 77
+   在 System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   在 System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   在 System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   在 System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   在 System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   在 System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   在 MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   在 System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   在 System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   在 System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2018-08-29 17:15:27.411 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 17:15:27.458 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 17:17:26.632 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 17:17:26.663 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 17:18:10.550 +08:00 [Information] 连接成功;key:81c88203-5f81-413a-b38b-4cd8b9f1641c
+2018-08-29 17:18:10.566 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 17:18:28.862 +08:00 [Information] App已是最新版本
+2018-08-29 17:33:49.547 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 17:33:49.576 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 17:35:31.533 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 17:35:31.648 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 17:36:25.815 +08:00 [Information] 连接成功;key:e90bd873-b8d1-4c06-96c9-073fef73b52e
+2018-08-29 17:36:25.827 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 17:36:30.782 +08:00 [Information] App已是最新版本
+2018-08-29 17:41:07.157 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 17:41:07.208 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 17:43:25.194 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 17:43:25.274 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 17:43:56.079 +08:00 [Information] 连接成功;key:5a8b090f-6a91-4259-8eb2-4034573162d1
+2018-08-29 17:43:56.092 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 17:44:00.653 +08:00 [Information] App已是最新版本
+2018-08-29 18:15:53.625 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 18:15:53.682 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 18:18:48.041 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 18:18:48.100 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 18:19:21.829 +08:00 [Information] 连接成功;key:0e2ab102-0dd1-44f0-aef9-b6ee10414800
+2018-08-29 18:19:21.889 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 18:19:26.175 +08:00 [Information] App已是最新版本
+2018-08-29 18:36:30.306 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 18:36:30.331 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 18:38:46.745 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 18:38:46.807 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 18:39:16.999 +08:00 [Information] 连接成功;key:60b1c46b-5b9c-4b8c-a5dd-1a95a42f5725
+2018-08-29 18:39:17.040 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 18:39:21.797 +08:00 [Information] App已是最新版本
+2018-08-29 18:43:33.539 +08:00 [Information] App已是最新版本
+2018-08-29 18:44:11.888 +08:00 [Information] App已是最新版本
+2018-08-29 18:53:32.285 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 18:53:32.427 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 18:55:09.454 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 18:55:09.499 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 18:55:54.541 +08:00 [Information] 连接成功;key:a85bfd2d-483a-4d88-b386-48c8e1e88a39
+2018-08-29 18:55:54.556 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 18:55:58.887 +08:00 [Information] App已是最新版本
+2018-08-29 19:01:30.725 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 19:01:30.755 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 19:04:57.496 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 19:04:57.510 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 19:05:22.654 +08:00 [Information] 连接成功;key:a84af8e9-419a-4eee-a7ad-767be26e49a9
+2018-08-29 19:05:22.668 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 19:06:10.794 +08:00 [Information] App已是最新版本
+2018-08-29 19:10:25.532 +08:00 [Information] App已是最新版本
+2018-08-29 19:10:42.191 +08:00 [Error] System.ArgumentOutOfRangeException: 长度不能小于 0。
+参数名: length
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 CmdProcessLib.ProcessHelper.FilterString(String context, String startStr, String endStr, Boolean isDelete_r_n) 位置 F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Utils\ProcessHelper.cs:行号 220
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.dgPhoneManagement_MouseLeftButtonUp(Object sender, MouseButtonEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 170
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.PhoneManagementView_Loaded(Object sender, RoutedEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 77
+   在 System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   在 System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   在 System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   在 System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   在 System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   在 System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   在 MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   在 System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   在 System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   在 System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2018-08-29 19:11:04.478 +08:00 [Error] System.ArgumentOutOfRangeException: 长度不能小于 0。
+参数名: length
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 CmdProcessLib.ProcessHelper.FilterString(String context, String startStr, String endStr, Boolean isDelete_r_n) 位置 F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Utils\ProcessHelper.cs:行号 220
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.dgPhoneManagement_MouseLeftButtonUp(Object sender, MouseButtonEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 170
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.PhoneManagementView_Loaded(Object sender, RoutedEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 77
+   在 System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   在 System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   在 System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   在 System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   在 System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   在 System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   在 MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   在 System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   在 System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   在 System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2018-08-29 19:11:18.820 +08:00 [Error] System.ArgumentOutOfRangeException: 长度不能小于 0。
+参数名: length
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 CmdProcessLib.ProcessHelper.FilterString(String context, String startStr, String endStr, Boolean isDelete_r_n) 位置 F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Utils\ProcessHelper.cs:行号 220
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.dgPhoneManagement_MouseLeftButtonUp(Object sender, MouseButtonEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 170
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.PhoneManagementView_Loaded(Object sender, RoutedEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 77
+   在 System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   在 System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   在 System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   在 System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   在 System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   在 System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   在 MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   在 System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   在 System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   在 System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2018-08-29 19:11:28.613 +08:00 [Error] System.ArgumentOutOfRangeException: 长度不能小于 0。
+参数名: length
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 CmdProcessLib.ProcessHelper.FilterString(String context, String startStr, String endStr, Boolean isDelete_r_n) 位置 F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Utils\ProcessHelper.cs:行号 220
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.dgPhoneManagement_MouseLeftButtonUp(Object sender, MouseButtonEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 170
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.PhoneManagementView_Loaded(Object sender, RoutedEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 77
+   在 System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   在 System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   在 System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   在 System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   在 System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   在 System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   在 MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   在 System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   在 System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   在 System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2018-08-29 19:11:42.196 +08:00 [Error] System.ArgumentOutOfRangeException: 长度不能小于 0。
+参数名: length
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 CmdProcessLib.ProcessHelper.FilterString(String context, String startStr, String endStr, Boolean isDelete_r_n) 位置 F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Utils\ProcessHelper.cs:行号 220
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.dgPhoneManagement_MouseLeftButtonUp(Object sender, MouseButtonEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 170
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.PhoneManagementView_Loaded(Object sender, RoutedEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 77
+   在 System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   在 System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   在 System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   在 System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   在 System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   在 System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   在 MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   在 System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   在 System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   在 System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2018-08-29 19:16:30.590 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 19:16:30.624 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 19:16:57.321 +08:00 [Information] 连接成功;key:2990cd18-ff42-4bf1-8bd0-4727e9db3c5f
+2018-08-29 19:16:57.336 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 19:17:38.189 +08:00 [Error] System.InvalidOperationException: 某个 ItemsControl 与它的项源不一致。
+  请参见内部异常以获取更多信息。 ---> System.Exception: 针对开发人员的信息(使用文本可视化工具来阅读此内容):
+引发此异常的原因是名为“dgAccountManagement”的控件“System.Windows.Controls.DataGrid Items.Count:198”的生成器已接收到一个 CollectionChanged 事件序列，这些事件与 Items 集合的当前状态不符。  检测到以下差异:
+  累积计数 99 与实际计数 198 不相同。[累积计数的计算方式为: 上次重置时的计数 + 添加数 - 自上次重置后的删除数。]
+
+以下的一个或多个源可能已引发错误事件:
+     System.Windows.Controls.ItemContainerGenerator
+      System.Windows.Controls.ItemCollection
+       System.Windows.Data.ListCollectionView
+        System.Collections.Generic.List`1[[Xzy.EmbeddedApp.Model.Simulators, Xzy.EmbeddedApp.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+(标有星号的源被认为更有可能是问题的根源。)
+
+最常见的原因有: (a)在未引发相应事件的情况下更改了集合或集合的计数，(b)引发的事件使用了错误的索引或项参数。
+
+异常的堆栈跟踪将描述不一致情况是如何检测到的，而不是描述不一致情况是如何发生的。  若要获得更及时的异常，应将生成器上附加的属性“PresentationTraceSources.TraceLevel”设置为值“High”，然后重新运行该方案。  完成此操作的一个方法是，在“即时”窗口中运行与下面的命令类似的命令:
+   System.Diagnostics.PresentationTraceSources.SetTraceLevel(myItemsControl.ItemContainerGenerator, System.Diagnostics.PresentationTraceLevel.High)
+。这会使得在发生每个 CollectionChanged 事件之后运行检测逻辑，因此，这将减慢应用程序的运行速度。
+
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Windows.Controls.ItemContainerGenerator.Verify()
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureChild(IItemContainerGenerator& generator, IContainItemStorage& itemStorageProvider, IContainItemStorage& parentItemStorageProvider, Object& parentItem, Boolean& hasUniformOrAverageContainerSizeBeenSet, Double& computedUniformOrAverageContainerSize, Double& computedUniformOrAverageContainerPixelSize, Boolean& computedAreContainersUniformlySized, Boolean& hasAnyContainerSpanChanged, IList& items, Object& item, IList& children, Int32& childIndex, Boolean& visualOrderChanged, Boolean& isHorizontal, Size& childConstraint, Rect& viewport, VirtualizationCacheLength& cacheSize, VirtualizationCacheLengthUnit& cacheUnit, Boolean& foundFirstItemInViewport, Double& firstItemInViewportOffset, Size& stackPixelSize, Size& stackPixelSizeInViewport, Size& stackPixelSizeInCacheBeforeViewport, Size& stackPixelSizeInCacheAfterViewport, Size& stackLogicalSize, Size& stackLogicalSizeInViewport, Size& stackLogicalSizeInCacheBeforeViewport, Size& stackLogicalSizeInCacheAfterViewport, Boolean& mustDisableVirtualization, Boolean isBeforeFirstItem, Boolean isAfterFirstItem, Boolean isAfterLastItem, Boolean skipActualMeasure, Boolean skipGeneration, Boolean& hasBringIntoViewContainerBeenMeasured, Boolean& hasVirtualizingChildren)
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureOverrideImpl(Size constraint, Nullable`1& lastPageSafeOffset, List`1& previouslyMeasuredOffsets, Nullable`1& lastPagePixelSize, Boolean remeasure)
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureOverride(Size constraint)
+   在 System.Windows.Controls.Primitives.DataGridRowsPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.ContextLayoutManager.UpdateLayout()
+   在 System.Windows.ContextLayoutManager.UpdateLayoutCallback(Object arg)
+   在 System.Windows.Media.MediaContext.InvokeOnRenderCallback.DoWork()
+   在 System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   在 System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2018-08-29 19:17:43.455 +08:00 [Error] System.InvalidOperationException: 某个 ItemsControl 与它的项源不一致。
+  请参见内部异常以获取更多信息。 ---> System.Exception: 针对开发人员的信息(使用文本可视化工具来阅读此内容):
+引发此异常的原因是名为“dgAccountManagement”的控件“System.Windows.Controls.DataGrid Items.Count:198”的生成器已接收到一个 CollectionChanged 事件序列，这些事件与 Items 集合的当前状态不符。  检测到以下差异:
+  累积计数 99 与实际计数 198 不相同。[累积计数的计算方式为: 上次重置时的计数 + 添加数 - 自上次重置后的删除数。]
+
+以下的一个或多个源可能已引发错误事件:
+     System.Windows.Controls.ItemContainerGenerator
+      System.Windows.Controls.ItemCollection
+       System.Windows.Data.ListCollectionView
+        System.Collections.Generic.List`1[[Xzy.EmbeddedApp.Model.Simulators, Xzy.EmbeddedApp.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+(标有星号的源被认为更有可能是问题的根源。)
+
+最常见的原因有: (a)在未引发相应事件的情况下更改了集合或集合的计数，(b)引发的事件使用了错误的索引或项参数。
+
+异常的堆栈跟踪将描述不一致情况是如何检测到的，而不是描述不一致情况是如何发生的。  若要获得更及时的异常，应将生成器上附加的属性“PresentationTraceSources.TraceLevel”设置为值“High”，然后重新运行该方案。  完成此操作的一个方法是，在“即时”窗口中运行与下面的命令类似的命令:
+   System.Diagnostics.PresentationTraceSources.SetTraceLevel(myItemsControl.ItemContainerGenerator, System.Diagnostics.PresentationTraceLevel.High)
+。这会使得在发生每个 CollectionChanged 事件之后运行检测逻辑，因此，这将减慢应用程序的运行速度。
+
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Windows.Controls.ItemContainerGenerator.Verify()
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureChild(IItemContainerGenerator& generator, IContainItemStorage& itemStorageProvider, IContainItemStorage& parentItemStorageProvider, Object& parentItem, Boolean& hasUniformOrAverageContainerSizeBeenSet, Double& computedUniformOrAverageContainerSize, Double& computedUniformOrAverageContainerPixelSize, Boolean& computedAreContainersUniformlySized, Boolean& hasAnyContainerSpanChanged, IList& items, Object& item, IList& children, Int32& childIndex, Boolean& visualOrderChanged, Boolean& isHorizontal, Size& childConstraint, Rect& viewport, VirtualizationCacheLength& cacheSize, VirtualizationCacheLengthUnit& cacheUnit, Boolean& foundFirstItemInViewport, Double& firstItemInViewportOffset, Size& stackPixelSize, Size& stackPixelSizeInViewport, Size& stackPixelSizeInCacheBeforeViewport, Size& stackPixelSizeInCacheAfterViewport, Size& stackLogicalSize, Size& stackLogicalSizeInViewport, Size& stackLogicalSizeInCacheBeforeViewport, Size& stackLogicalSizeInCacheAfterViewport, Boolean& mustDisableVirtualization, Boolean isBeforeFirstItem, Boolean isAfterFirstItem, Boolean isAfterLastItem, Boolean skipActualMeasure, Boolean skipGeneration, Boolean& hasBringIntoViewContainerBeenMeasured, Boolean& hasVirtualizingChildren)
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureOverrideImpl(Size constraint, Nullable`1& lastPageSafeOffset, List`1& previouslyMeasuredOffsets, Nullable`1& lastPagePixelSize, Boolean remeasure)
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureOverride(Size constraint)
+   在 System.Windows.Controls.Primitives.DataGridRowsPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ItemsPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ScrollContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.ScrollViewer.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.Controls.DataGrid.MeasureOverride(Size availableSize)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Documents.AdornerDecorator.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Documents.AdornerDecorator.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Window.MeasureOverrideHelper(Size constraint)
+   在 System.Windows.Window.MeasureOverride(Size availableSize)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.ContextLayoutManager.UpdateLayout()
+   在 System.Windows.UIElement.UpdateLayout()
+   在 System.Windows.Interop.HwndSource.SetLayoutSize()
+   在 System.Windows.Interop.HwndSource.set_RootVisualInternal(Visual value)
+   在 System.Windows.Interop.HwndSource.set_RootVisual(Visual value)
+   在 System.Windows.Window.SetRootVisual()
+   在 System.Windows.Window.SetRootVisualAndUpdateSTC()
+   在 System.Windows.Window.SetupInitialState(Double requestedTop, Double requestedLeft, Double requestedWidth, Double requestedHeight)
+   在 System.Windows.Window.CreateSourceWindow(Boolean duringShow)
+   在 System.Windows.Window.CreateSourceWindowDuringShow()
+   在 System.Windows.Window.SafeCreateWindowDuringShow()
+   在 System.Windows.Window.ShowHelper(Object booleanBox)
+   在 System.Windows.Window.Show()
+   在 Wx.Qunkong360.Wpf.Utils.MessageDialogManager.ShowDialogAsync(String msg, Boolean isModeDialog) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\MessageDialogManager.cs:行号 29
+   在 Wx.Qunkong360.Wpf.App.Current_DispatcherUnhandledException(Object sender, DispatcherUnhandledExceptionEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 92
+   在 System.Windows.Threading.Dispatcher.CatchException(Exception e)
+   在 System.Windows.Threading.Dispatcher.CatchExceptionStatic(Object source, Exception e)
+   在 System.Windows.Threading.ExceptionWrapper.CatchException(Object source, Exception e, Delegate catchHandler)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   在 System.Windows.Threading.DispatcherOperation.InvokeImpl()
+   在 System.Windows.Threading.DispatcherOperation.InvokeInSecurityContext(Object state)
+   在 MS.Internal.CulturePreservingExecutionContext.CallbackWrapper(Object obj)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 MS.Internal.CulturePreservingExecutionContext.Run(CulturePreservingExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Windows.Threading.DispatcherOperation.Invoke()
+   在 System.Windows.Threading.Dispatcher.ProcessQueue()
+   在 System.Windows.Threading.Dispatcher.WndProcHook(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   在 MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   在 MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2018-08-29 19:17:43.475 +08:00 [Error] System.InvalidOperationException: 某个 ItemsControl 与它的项源不一致。
+  请参见内部异常以获取更多信息。 ---> System.Exception: 针对开发人员的信息(使用文本可视化工具来阅读此内容):
+引发此异常的原因是名为“dgAccountManagement”的控件“System.Windows.Controls.DataGrid Items.Count:198”的生成器已接收到一个 CollectionChanged 事件序列，这些事件与 Items 集合的当前状态不符。  检测到以下差异:
+  累积计数 99 与实际计数 198 不相同。[累积计数的计算方式为: 上次重置时的计数 + 添加数 - 自上次重置后的删除数。]
+
+以下的一个或多个源可能已引发错误事件:
+     System.Windows.Controls.ItemContainerGenerator
+      System.Windows.Controls.ItemCollection
+       System.Windows.Data.ListCollectionView
+        System.Collections.Generic.List`1[[Xzy.EmbeddedApp.Model.Simulators, Xzy.EmbeddedApp.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+(标有星号的源被认为更有可能是问题的根源。)
+
+最常见的原因有: (a)在未引发相应事件的情况下更改了集合或集合的计数，(b)引发的事件使用了错误的索引或项参数。
+
+异常的堆栈跟踪将描述不一致情况是如何检测到的，而不是描述不一致情况是如何发生的。  若要获得更及时的异常，应将生成器上附加的属性“PresentationTraceSources.TraceLevel”设置为值“High”，然后重新运行该方案。  完成此操作的一个方法是，在“即时”窗口中运行与下面的命令类似的命令:
+   System.Diagnostics.PresentationTraceSources.SetTraceLevel(myItemsControl.ItemContainerGenerator, System.Diagnostics.PresentationTraceLevel.High)
+。这会使得在发生每个 CollectionChanged 事件之后运行检测逻辑，因此，这将减慢应用程序的运行速度。
+
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Windows.Controls.ItemContainerGenerator.Verify()
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureChild(IItemContainerGenerator& generator, IContainItemStorage& itemStorageProvider, IContainItemStorage& parentItemStorageProvider, Object& parentItem, Boolean& hasUniformOrAverageContainerSizeBeenSet, Double& computedUniformOrAverageContainerSize, Double& computedUniformOrAverageContainerPixelSize, Boolean& computedAreContainersUniformlySized, Boolean& hasAnyContainerSpanChanged, IList& items, Object& item, IList& children, Int32& childIndex, Boolean& visualOrderChanged, Boolean& isHorizontal, Size& childConstraint, Rect& viewport, VirtualizationCacheLength& cacheSize, VirtualizationCacheLengthUnit& cacheUnit, Boolean& foundFirstItemInViewport, Double& firstItemInViewportOffset, Size& stackPixelSize, Size& stackPixelSizeInViewport, Size& stackPixelSizeInCacheBeforeViewport, Size& stackPixelSizeInCacheAfterViewport, Size& stackLogicalSize, Size& stackLogicalSizeInViewport, Size& stackLogicalSizeInCacheBeforeViewport, Size& stackLogicalSizeInCacheAfterViewport, Boolean& mustDisableVirtualization, Boolean isBeforeFirstItem, Boolean isAfterFirstItem, Boolean isAfterLastItem, Boolean skipActualMeasure, Boolean skipGeneration, Boolean& hasBringIntoViewContainerBeenMeasured, Boolean& hasVirtualizingChildren)
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureOverrideImpl(Size constraint, Nullable`1& lastPageSafeOffset, List`1& previouslyMeasuredOffsets, Nullable`1& lastPagePixelSize, Boolean remeasure)
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureOverride(Size constraint)
+   在 System.Windows.Controls.Primitives.DataGridRowsPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ItemsPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ScrollContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.ScrollViewer.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.Controls.DataGrid.MeasureOverride(Size availableSize)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Documents.AdornerDecorator.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Documents.AdornerDecorator.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Window.MeasureOverrideHelper(Size constraint)
+   在 System.Windows.Window.MeasureOverride(Size availableSize)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.ContextLayoutManager.UpdateLayout()
+   在 System.Windows.ContextLayoutManager.UpdateLayoutCallback(Object arg)
+   在 System.Windows.Media.MediaContext.InvokeOnRenderCallback.DoWork()
+   在 System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   在 System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   在 System.Windows.Interop.HwndTarget.OnResize()
+   在 System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   在 MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   在 MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2018-08-29 19:17:43.491 +08:00 [Error] System.InvalidOperationException: 某个 ItemsControl 与它的项源不一致。
+  请参见内部异常以获取更多信息。 ---> System.Exception: 针对开发人员的信息(使用文本可视化工具来阅读此内容):
+引发此异常的原因是名为“dgAccountManagement”的控件“System.Windows.Controls.DataGrid Items.Count:198”的生成器已接收到一个 CollectionChanged 事件序列，这些事件与 Items 集合的当前状态不符。  检测到以下差异:
+  累积计数 99 与实际计数 198 不相同。[累积计数的计算方式为: 上次重置时的计数 + 添加数 - 自上次重置后的删除数。]
+
+以下的一个或多个源可能已引发错误事件:
+     System.Windows.Controls.ItemContainerGenerator
+      System.Windows.Controls.ItemCollection
+       System.Windows.Data.ListCollectionView
+        System.Collections.Generic.List`1[[Xzy.EmbeddedApp.Model.Simulators, Xzy.EmbeddedApp.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+(标有星号的源被认为更有可能是问题的根源。)
+
+最常见的原因有: (a)在未引发相应事件的情况下更改了集合或集合的计数，(b)引发的事件使用了错误的索引或项参数。
+
+异常的堆栈跟踪将描述不一致情况是如何检测到的，而不是描述不一致情况是如何发生的。  若要获得更及时的异常，应将生成器上附加的属性“PresentationTraceSources.TraceLevel”设置为值“High”，然后重新运行该方案。  完成此操作的一个方法是，在“即时”窗口中运行与下面的命令类似的命令:
+   System.Diagnostics.PresentationTraceSources.SetTraceLevel(myItemsControl.ItemContainerGenerator, System.Diagnostics.PresentationTraceLevel.High)
+。这会使得在发生每个 CollectionChanged 事件之后运行检测逻辑，因此，这将减慢应用程序的运行速度。
+
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Windows.Controls.ItemContainerGenerator.Verify()
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureChild(IItemContainerGenerator& generator, IContainItemStorage& itemStorageProvider, IContainItemStorage& parentItemStorageProvider, Object& parentItem, Boolean& hasUniformOrAverageContainerSizeBeenSet, Double& computedUniformOrAverageContainerSize, Double& computedUniformOrAverageContainerPixelSize, Boolean& computedAreContainersUniformlySized, Boolean& hasAnyContainerSpanChanged, IList& items, Object& item, IList& children, Int32& childIndex, Boolean& visualOrderChanged, Boolean& isHorizontal, Size& childConstraint, Rect& viewport, VirtualizationCacheLength& cacheSize, VirtualizationCacheLengthUnit& cacheUnit, Boolean& foundFirstItemInViewport, Double& firstItemInViewportOffset, Size& stackPixelSize, Size& stackPixelSizeInViewport, Size& stackPixelSizeInCacheBeforeViewport, Size& stackPixelSizeInCacheAfterViewport, Size& stackLogicalSize, Size& stackLogicalSizeInViewport, Size& stackLogicalSizeInCacheBeforeViewport, Size& stackLogicalSizeInCacheAfterViewport, Boolean& mustDisableVirtualization, Boolean isBeforeFirstItem, Boolean isAfterFirstItem, Boolean isAfterLastItem, Boolean skipActualMeasure, Boolean skipGeneration, Boolean& hasBringIntoViewContainerBeenMeasured, Boolean& hasVirtualizingChildren)
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureOverrideImpl(Size constraint, Nullable`1& lastPageSafeOffset, List`1& previouslyMeasuredOffsets, Nullable`1& lastPagePixelSize, Boolean remeasure)
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureOverride(Size constraint)
+   在 System.Windows.Controls.Primitives.DataGridRowsPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ItemsPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ScrollContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.ScrollViewer.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.Controls.DataGrid.MeasureOverride(Size availableSize)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Documents.AdornerDecorator.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Documents.AdornerDecorator.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Window.MeasureOverrideHelper(Size constraint)
+   在 System.Windows.Window.MeasureOverride(Size availableSize)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.ContextLayoutManager.UpdateLayout()
+   在 System.Windows.ContextLayoutManager.UpdateLayoutCallback(Object arg)
+   在 System.Windows.Media.MediaContext.InvokeOnRenderCallback.DoWork()
+   在 System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   在 System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   在 System.Windows.Interop.HwndTarget.OnResize()
+   在 System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   在 MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   在 MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2018-08-29 19:17:43.564 +08:00 [Error] System.InvalidOperationException: 某个 ItemsControl 与它的项源不一致。
+  请参见内部异常以获取更多信息。 ---> System.Exception: 针对开发人员的信息(使用文本可视化工具来阅读此内容):
+引发此异常的原因是名为“dgAccountManagement”的控件“System.Windows.Controls.DataGrid Items.Count:198”的生成器已接收到一个 CollectionChanged 事件序列，这些事件与 Items 集合的当前状态不符。  检测到以下差异:
+  累积计数 99 与实际计数 198 不相同。[累积计数的计算方式为: 上次重置时的计数 + 添加数 - 自上次重置后的删除数。]
+
+以下的一个或多个源可能已引发错误事件:
+     System.Windows.Controls.ItemContainerGenerator
+      System.Windows.Controls.ItemCollection
+       System.Windows.Data.ListCollectionView
+        System.Collections.Generic.List`1[[Xzy.EmbeddedApp.Model.Simulators, Xzy.EmbeddedApp.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+(标有星号的源被认为更有可能是问题的根源。)
+
+最常见的原因有: (a)在未引发相应事件的情况下更改了集合或集合的计数，(b)引发的事件使用了错误的索引或项参数。
+
+异常的堆栈跟踪将描述不一致情况是如何检测到的，而不是描述不一致情况是如何发生的。  若要获得更及时的异常，应将生成器上附加的属性“PresentationTraceSources.TraceLevel”设置为值“High”，然后重新运行该方案。  完成此操作的一个方法是，在“即时”窗口中运行与下面的命令类似的命令:
+   System.Diagnostics.PresentationTraceSources.SetTraceLevel(myItemsControl.ItemContainerGenerator, System.Diagnostics.PresentationTraceLevel.High)
+。这会使得在发生每个 CollectionChanged 事件之后运行检测逻辑，因此，这将减慢应用程序的运行速度。
+
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Windows.Controls.ItemContainerGenerator.Verify()
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureChild(IItemContainerGenerator& generator, IContainItemStorage& itemStorageProvider, IContainItemStorage& parentItemStorageProvider, Object& parentItem, Boolean& hasUniformOrAverageContainerSizeBeenSet, Double& computedUniformOrAverageContainerSize, Double& computedUniformOrAverageContainerPixelSize, Boolean& computedAreContainersUniformlySized, Boolean& hasAnyContainerSpanChanged, IList& items, Object& item, IList& children, Int32& childIndex, Boolean& visualOrderChanged, Boolean& isHorizontal, Size& childConstraint, Rect& viewport, VirtualizationCacheLength& cacheSize, VirtualizationCacheLengthUnit& cacheUnit, Boolean& foundFirstItemInViewport, Double& firstItemInViewportOffset, Size& stackPixelSize, Size& stackPixelSizeInViewport, Size& stackPixelSizeInCacheBeforeViewport, Size& stackPixelSizeInCacheAfterViewport, Size& stackLogicalSize, Size& stackLogicalSizeInViewport, Size& stackLogicalSizeInCacheBeforeViewport, Size& stackLogicalSizeInCacheAfterViewport, Boolean& mustDisableVirtualization, Boolean isBeforeFirstItem, Boolean isAfterFirstItem, Boolean isAfterLastItem, Boolean skipActualMeasure, Boolean skipGeneration, Boolean& hasBringIntoViewContainerBeenMeasured, Boolean& hasVirtualizingChildren)
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureOverrideImpl(Size constraint, Nullable`1& lastPageSafeOffset, List`1& previouslyMeasuredOffsets, Nullable`1& lastPagePixelSize, Boolean remeasure)
+   在 System.Windows.Controls.VirtualizingStackPanel.MeasureOverride(Size constraint)
+   在 System.Windows.Controls.Primitives.DataGridRowsPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ItemsPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ScrollContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.ScrollViewer.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.Controls.DataGrid.MeasureOverride(Size availableSize)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 MS.Internal.Helper.MeasureElementWithSingleChild(UIElement element, Size constraint)
+   在 System.Windows.Controls.ContentPresenter.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Documents.AdornerDecorator.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureCell(Int32 cell, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV, Boolean& hasDesiredSizeUChanged)
+   在 System.Windows.Controls.Grid.MeasureCellsGroup(Int32 cellsHead, Size referenceSize, Boolean ignoreDesiredSizeU, Boolean forceInfinityV)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Documents.AdornerDecorator.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Controls.Grid.MeasureOverride(Size constraint)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.Window.MeasureOverrideHelper(Size constraint)
+   在 System.Windows.Window.MeasureOverride(Size availableSize)
+   在 System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   在 System.Windows.UIElement.Measure(Size availableSize)
+   在 System.Windows.ContextLayoutManager.UpdateLayout()
+   在 System.Windows.UIElement.UpdateLayout()
+   在 System.Windows.Interop.HwndSource.SetLayoutSize()
+   在 System.Windows.Interop.HwndSource.set_RootVisualInternal(Visual value)
+   在 System.Windows.Interop.HwndSource.set_RootVisual(Visual value)
+   在 System.Windows.Window.SetRootVisual()
+   在 System.Windows.Window.SetRootVisualAndUpdateSTC()
+   在 System.Windows.Window.SetupInitialState(Double requestedTop, Double requestedLeft, Double requestedWidth, Double requestedHeight)
+   在 System.Windows.Window.CreateSourceWindow(Boolean duringShow)
+   在 System.Windows.Window.CreateSourceWindowDuringShow()
+   在 System.Windows.Window.SafeCreateWindowDuringShow()
+   在 System.Windows.Window.ShowHelper(Object booleanBox)
+   在 System.Windows.Window.Show()
+   在 Wx.Qunkong360.Wpf.Utils.MessageDialogManager.ShowDialogAsync(String msg, Boolean isModeDialog) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\MessageDialogManager.cs:行号 29
+   在 Wx.Qunkong360.Wpf.App.Current_DispatcherUnhandledException(Object sender, DispatcherUnhandledExceptionEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 92
+   在 System.Windows.Threading.Dispatcher.CatchException(Exception e)
+   在 System.Windows.Threading.Dispatcher.CatchExceptionStatic(Object source, Exception e)
+   在 System.Windows.Threading.ExceptionWrapper.CatchException(Object source, Exception e, Delegate catchHandler)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   在 System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   在 MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+2018-08-29 19:17:48.392 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 19:17:48.476 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 19:18:45.334 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 19:18:45.491 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 19:18:51.130 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 19:18:51.164 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 19:30:13.592 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 19:30:13.619 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 19:30:33.049 +08:00 [Information] 连接成功;key:0683ca69-8c8d-4312-87bf-3c84ac16f329
+2018-08-29 19:30:33.068 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 19:30:37.660 +08:00 [Information] App已是最新版本
+2018-08-29 19:40:38.702 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 19:40:38.765 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 19:40:57.603 +08:00 [Information] 连接成功;key:552336e4-09fe-4600-a8cc-04b5191b3435
+2018-08-29 19:40:57.622 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 19:41:03.067 +08:00 [Information] App已是最新版本
+2018-08-29 19:50:01.145 +08:00 [Information] App已是最新版本
+2018-08-29 19:50:04.595 +08:00 [Information] App已是最新版本
+2018-08-29 19:50:10.022 +08:00 [Information] App已是最新版本
+2018-08-29 19:58:11.309 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 19:58:11.348 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 19:59:10.744 +08:00 [Information] 连接成功;key:6dc578d8-4a16-45f1-8c3f-4ae7f65b8fcd
+2018-08-29 19:59:10.760 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 19:59:15.373 +08:00 [Information] App已是最新版本
+2018-08-29 19:59:24.120 +08:00 [Information] App已是最新版本
+2018-08-29 20:04:56.921 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 20:04:56.951 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 20:05:17.503 +08:00 [Information] 连接成功;key:26a0436a-6ab8-49f5-8868-298d20c40360
+2018-08-29 20:05:17.526 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 20:05:18.189 +08:00 [Information] App已是最新版本
+2018-08-29 20:07:18.869 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 20:07:18.900 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 20:07:37.286 +08:00 [Information] 连接成功;key:48b6f121-87d6-4baa-b35b-5b3e47bb8e33
+2018-08-29 20:07:37.306 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 20:07:40.361 +08:00 [Information] App已是最新版本
+2018-08-29 20:09:12.808 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 20:09:12.870 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 20:11:06.487 +08:00 [Information] 连接成功;key:b3cd3efd-83fc-4c20-8b03-fadb840ab80b
+2018-08-29 20:11:06.503 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 20:11:10.376 +08:00 [Information] App已是最新版本
+2018-08-29 20:11:58.833 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 20:11:58.870 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 20:15:39.801 +08:00 [Information] 连接成功;key:74065b16-9a91-4729-b556-920760b67860
+2018-08-29 20:15:39.812 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 20:16:30.008 +08:00 [Information] App已是最新版本
+2018-08-29 21:52:24.047 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 21:52:24.160 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 21:52:42.705 +08:00 [Information] 连接成功;key:af357dbb-ae5e-48cb-86fc-45d6e2414ee8
+2018-08-29 21:52:42.720 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 21:52:52.405 +08:00 [Information] App已是最新版本
+2018-08-29 21:53:08.645 +08:00 [Error] System.ArgumentOutOfRangeException: 长度不能小于 0。
+参数名: length
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 CmdProcessLib.ProcessHelper.FilterString(String context, String startStr, String endStr, Boolean isDelete_r_n) 位置 F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Utils\ProcessHelper.cs:行号 220
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.dgPhoneManagement_MouseLeftButtonUp(Object sender, MouseButtonEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 170
+   在 Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView.PhoneManagementView_Loaded(Object sender, RoutedEventArgs e) 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\ContentViews\PhoneManagementView.xaml.cs:行号 77
+   在 System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   在 System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   在 System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   在 System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   在 System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   在 System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   在 MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   在 System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   在 System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   在 System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   在 System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2018-08-29 22:42:52.785 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 22:42:52.815 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 22:43:19.357 +08:00 [Information] 连接成功;key:51ac2a9c-6ca9-480c-9992-8eff727147a6
+2018-08-29 22:43:19.371 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 22:43:37.743 +08:00 [Information] App已是最新版本
+2018-08-29 22:57:30.214 +08:00 [Information] App已是最新版本
+2018-08-29 23:00:00.893 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 23:00:00.949 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 23:00:31.228 +08:00 [Information] 连接成功;key:66dca84f-72db-4f16-b26e-1ac8dca282d0
+2018-08-29 23:00:31.239 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 23:00:36.916 +08:00 [Information] App已是最新版本
+2018-08-29 23:11:55.641 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 23:11:55.694 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 23:12:17.112 +08:00 [Information] 连接成功;key:41d0eb73-6445-45f3-9069-c0dd24477ef5
+2018-08-29 23:12:17.138 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 23:12:17.233 +08:00 [Information] App已是最新版本
+2018-08-29 23:13:57.202 +08:00 [Information] App已是最新版本
+2018-08-29 23:40:48.028 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-08-29 23:40:48.078 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-08-29 23:41:08.478 +08:00 [Information] 连接成功;key:3d9ac095-8078-4ea6-a141-a45c68760fd0
+2018-08-29 23:41:08.495 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-08-29 23:41:08.654 +08:00 [Information] App已是最新版本

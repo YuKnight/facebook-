@@ -1,0 +1,1200 @@
+2018-09-13 09:15:09.439 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 09:15:09.472 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 09:15:13.189 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 09:20:00.436 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 09:20:00.479 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 09:20:02.087 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 09:22:33.257 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 09:22:33.296 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 09:22:35.004 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 09:36:11.611 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 09:36:11.652 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 09:36:13.275 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 11:14:33.981 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 11:14:34.016 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 11:14:36.033 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 11:17:24.918 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 11:17:24.949 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 11:17:26.597 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 11:19:25.280 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 11:19:25.307 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 11:19:26.932 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 11:19:55.079 +08:00 [Information] 连接成功;key:14dc3047-9703-4aff-aec2-2f5d1bcc1e5c
+2018-09-13 11:19:55.108 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-09-13 11:28:50.456 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 11:28:50.494 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 11:28:52.148 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 11:31:33.762 +08:00 [Error] 添加群组好友失败：System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<AddGroupFriends>d__26.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2336
+2018-09-13 11:55:35.692 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 11:55:35.730 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 11:55:37.450 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 12:48:54.605 +08:00 [Error] 轮询模拟器的主窗口句柄超时！
+2018-09-13 12:48:54.605 +08:00 [Error] SetParent result:0, vmIndex:0
+2018-09-13 12:48:54.606 +08:00 [Error] MoveWindow result:0, vmIndex:0
+2018-09-13 12:49:58.233 +08:00 [Error] 轮询模拟器的主窗口句柄超时！
+2018-09-13 12:49:58.234 +08:00 [Error] SetParent result:0, vmIndex:1
+2018-09-13 12:49:58.234 +08:00 [Error] MoveWindow result:0, vmIndex:1
+2018-09-13 12:50:07.131 +08:00 [Error] 轮询模拟器的主窗口句柄超时！
+2018-09-13 12:50:07.132 +08:00 [Error] SetParent result:0, vmIndex:1
+2018-09-13 12:50:07.132 +08:00 [Error] MoveWindow result:0, vmIndex:1
+2018-09-13 13:22:30.165 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 13:22:30.190 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 13:22:31.891 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 13:23:01.937 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 13:23:01.974 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 13:23:17.236 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 13:33:25.902 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 13:33:25.946 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 13:33:27.570 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 13:37:06.051 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<SendHomepageAsync>d__23.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2146
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 220
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 13:37:16.876 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 13:37:16.912 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 13:37:18.643 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 13:42:11.507 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<SendHomepageAsync>d__23.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2146
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 220
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 13:42:11.934 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<SendHomepageAsync>d__23.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2146
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 220
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 13:42:25.897 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 13:42:25.973 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 13:42:27.769 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 13:50:23.961 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<SendHomepageAsync>d__23.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2146
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 220
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 13:56:30.880 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 13:56:30.913 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 13:57:04.418 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 13:57:04.451 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 13:57:06.107 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 13:58:08.040 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 13:58:08.076 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 13:58:09.754 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 13:59:38.852 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 13:59:38.878 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 13:59:40.517 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 14:02:19.037 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 14:02:19.063 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 14:02:20.783 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 15:19:13.501 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 15:19:13.572 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 15:19:15.324 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 15:29:51.617 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 15:29:51.715 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 15:29:53.544 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 15:31:01.574 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 15:31:01.606 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 15:31:03.364 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 15:32:39.303 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<TimelineLike>d__8.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 653
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 202
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 15:32:43.776 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 15:32:43.829 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 15:32:45.520 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 15:35:18.757 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 15:35:18.803 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 15:35:20.511 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 15:36:53.344 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 15:36:53.371 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 15:36:55.144 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 15:42:40.353 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 15:42:40.378 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 15:42:42.001 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 15:48:06.448 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 15:48:06.478 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 15:48:08.127 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 15:52:40.477 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 15:52:40.505 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 15:52:42.352 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 15:55:02.031 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<SendHomepageAsync>d__23.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2146
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 220
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 15:55:53.815 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 15:55:53.853 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 15:55:55.628 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 15:57:57.882 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<SendHomepageAsync>d__23.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2146
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 220
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 15:58:15.637 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 15:58:15.694 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 15:58:17.442 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:00:25.106 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:00:25.160 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:00:26.821 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:03:52.685 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<SendHomepageAsync>d__23.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2146
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 220
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 16:03:57.170 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:03:57.199 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:03:58.869 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:05:07.185 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<JoinGroupAsync>d__7.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 560
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 196
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 16:05:10.267 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:05:10.308 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:05:12.104 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:06:56.817 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<FriendTimelineLike>d__9.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 705
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 208
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 16:07:05.375 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:07:06.170 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:07:26.333 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:09:51.229 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<PublishPost>d__10.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 796
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 214
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 16:23:42.468 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:23:42.552 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:23:44.350 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:26:07.831 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:26:07.863 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:26:09.604 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:30:12.477 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:30:12.538 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:30:14.240 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:40:19.721 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:40:19.800 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:40:21.455 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:42:08.068 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:42:08.126 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:42:09.819 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:43:06.513 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:43:06.553 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:43:08.294 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:45:05.653 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:45:05.680 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:45:07.504 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:46:41.219 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<SendHomepageAsync>d__23.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2146
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 220
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 16:46:57.259 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:47:03.616 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:48:03.125 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:48:18.150 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:48:18.192 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:48:20.030 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 16:56:31.309 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 16:56:31.347 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 16:56:46.770 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:00:58.912 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:00:58.938 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:06:20.870 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:06:20.909 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:06:22.637 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:13:55.262 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:13:55.290 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:13:56.992 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:15:23.318 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:15:23.348 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:15:25.032 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:16:42.941 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:16:42.967 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:16:44.695 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:17:51.979 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<SendHomepageAsync>d__23.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2146
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 220
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 17:18:15.600 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:18:15.671 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:18:17.335 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:19:26.666 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:19:26.691 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:19:28.539 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:21:59.665 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:21:59.692 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:22:01.381 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:24:23.375 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:24:23.402 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:24:25.063 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:33:56.975 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:33:57.031 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:34:12.430 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:35:42.107 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:35:42.133 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:35:43.902 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:41:20.339 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<SendHomepageAsync>d__23.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2146
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 220
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 17:41:33.771 +08:00 [Error] System.TimeoutException: 任务超时
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Wx.Qunkong360.Wpf.Utils.SimulationTaskWrapper.<GotoHomepage>d__13.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Utils\SimulationTaskWrapper.cs:行号 366
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<SendHomepageAsync>d__23.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 2146
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 Xzy.EmbeddedApp.WinForm.Tasks.TasksSchedule.<Timer_Elapsed>d__4.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\Tasks\TasksSchedule.cs:行号 220
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_1(Object state)
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+2018-09-13 17:46:50.663 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:46:50.699 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:46:52.427 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:49:11.063 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:49:11.165 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:49:12.911 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:51:31.248 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:51:31.283 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:51:33.019 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 17:53:09.383 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 17:53:09.425 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 17:53:11.247 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 18:12:30.021 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 18:12:30.210 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 18:12:32.027 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 18:15:10.385 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 18:15:10.412 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 18:15:12.164 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 19:47:35.765 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 19:47:35.792 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 19:47:37.636 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 21:06:26.845 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 21:06:26.871 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 21:06:28.738 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 21:11:09.679 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 21:11:09.715 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 21:11:11.508 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 21:42:43.758 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 21:42:43.868 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 21:42:45.765 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 21:44:12.738 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 21:44:12.786 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 21:44:14.614 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 21:46:14.177 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 21:46:14.210 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 21:46:16.143 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 22:26:57.928 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 22:26:58.019 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 22:27:00.014 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 22:27:21.398 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 22:27:21.494 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 22:27:23.380 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 22:28:53.064 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 22:28:53.106 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 22:28:55.027 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 22:32:13.942 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 22:32:13.989 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 22:32:15.829 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 22:35:07.060 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 22:35:07.096 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 22:35:08.940 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 23:25:04.995 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 23:25:05.127 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 23:25:07.154 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 23:27:53.078 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 23:27:53.121 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 23:27:55.101 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 23:42:00.840 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 23:42:00.910 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 23:42:07.457 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-13 23:44:06.764 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-13 23:44:06.805 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-13 23:44:08.989 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。

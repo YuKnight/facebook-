@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="Wx.Qunkong360.Wpf.ContentViews.TaskManagerView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Wx.Qunkong360.Wpf.ContentViews"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800" FontSize="16">
+    <TabControl>
+        <TabItem x:Name="tabTaskManagement" Loaded="tabTaskManagement_Loaded">
+            <TabItem.Header>
+                <Label x:Name="lblTaskManagement" Content="任务管理"></Label>
+            </TabItem.Header>
+
+            <Grid x:Name="gridTaskManagement">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="57*"></ColumnDefinition>
+                    <ColumnDefinition Width="101*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Margin="0 20 0 0">
+                    <Button x:Name="btnSearchTask" Margin="10" Click="btnSearchTask_Click"></Button>
+                    <Button x:Name="btnRefreshTask" Margin="10" Click="btnRefreshTask_Click"></Button>
+                    <Button x:Name="btnDeleteTask" Margin="10" Click="btnDeleteTask_Click"></Button>
+                    <Button x:Name="btnClearTask" Margin="10" Click="btnClearTask_Click"></Button>
+                </StackPanel>
+
+                <DataGrid x:Name="datagrid" Grid.Column="1" CanUserAddRows="False" IsReadOnly="True" CanUserDeleteRows="True" AutoGenerateColumns="False" Grid.ColumnSpan="2">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn x:Name="colNo" Binding="{Binding Id}"></DataGridTextColumn>
+                        <DataGridTextColumn x:Name="colTaskType" Binding="{Binding TypeDescripton}"></DataGridTextColumn>
+                        <DataGridTextColumn x:Name="colPhone" Binding="{Binding MobileIndex}"></DataGridTextColumn>
+                        <DataGridTextColumn x:Name="colParameter" Binding="{Binding Bodys}"></DataGridTextColumn>                        
+                        <DataGridTextColumn x:Name="colStatus" Binding="{Binding Status}"></DataGridTextColumn>
+                        <DataGridTextColumn x:Name="colResult" Binding="{Binding ResultVal}"></DataGridTextColumn>
+                        <DataGridTextColumn x:Name="colTime" Binding="{Binding Created}"></DataGridTextColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </TabItem>
+    </TabControl>
+</UserControl>

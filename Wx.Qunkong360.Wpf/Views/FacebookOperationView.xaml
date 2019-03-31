@@ -1,0 +1,60 @@
+﻿<metro:MetroWindow x:Class="Wx.Qunkong360.Wpf.Views.FacebookOperationView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wx.Qunkong360.Wpf.Views"
+        mc:Ignorable="d"
+        xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+        Height="768" FontSize="16" Width="1100">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"></ColumnDefinition>
+            <ColumnDefinition Width="93*"></ColumnDefinition>
+            <ColumnDefinition Width="16*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Background="#0956EE">
+            <ListBox Margin="0 13 0 0">
+
+                <ListBox.Resources>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Margin" Value="8"></Setter>
+                        <Setter Property="Foreground" Value="White"></Setter>
+                    </Style>
+                </ListBox.Resources>
+
+                <ListBox.ItemContainerStyle>
+                    <Style TargetType="ListBoxItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+                <ListBoxItem  x:Name="lbiAddFriends" Selected="lbiAddFriends_Selected">
+                    <TextBlock x:Name="lblAddFriends" Text="添加好友"></TextBlock>
+                </ListBoxItem>
+                <ListBoxItem x:Name="lbiMaintainAccounts" Selected="lbiMaintainAccounts_Selected">
+                    <TextBlock x:Name="lblMaintainAccounts"  Text="互动养号"></TextBlock>
+                </ListBoxItem>
+                <ListBoxItem x:Name="lbiPublishPost" Selected="lbiPublishPost_Selected">
+                    <TextBlock x:Name="lblPostMoments" Text="发布动态"></TextBlock>
+                </ListBoxItem>
+                <ListBoxItem x:Name="lbiGroupAndHome" Selected="lbiGroupAndHome_Selected">
+                    <TextBlock x:Name="lblGroupAndHomepage" Text="小组与主页"></TextBlock>
+                </ListBoxItem>
+                <ListBoxItem  x:Name="lbiTaskManagement" Selected="lbiTaskManagement_Selected" >
+                    <TextBlock x:Name="lblTaskManagement" Text="任务管理"></TextBlock>
+                </ListBoxItem>
+                <ListBoxItem x:Name="lbiPhoneManagement" Selected="lbiPhoneManagement_Selected">
+                    <TextBlock x:Name="lblPhoneManagement" Text="手机管理"></TextBlock>
+                </ListBoxItem>
+                <ListBoxItem x:Name="lbiClose" Selected="lbiClose_Selected">
+                    <TextBlock x:Name="lblClose" Text="关闭"></TextBlock>
+                </ListBoxItem>
+            </ListBox>
+        </Grid>
+
+        <Grid Grid.Column="1" x:Name="gridContent" Grid.ColumnSpan="2">
+
+        </Grid>
+    </Grid>
+</metro:MetroWindow>

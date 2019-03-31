@@ -1,0 +1,1173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add_Audio" xml:space="preserve">
+    <value>添加音频</value>
+  </data>
+  <data name="Add_Picture" xml:space="preserve">
+    <value>添加图片</value>
+  </data>
+  <data name="Add_Video" xml:space="preserve">
+    <value>添加视频</value>
+  </data>
+  <data name="Audio" xml:space="preserve">
+    <value>音频</value>
+  </data>
+  <data name="Authorization_Status" xml:space="preserve">
+    <value>授权状态</value>
+  </data>
+  <data name="Authorized_Number" xml:space="preserve">
+    <value>授权手机{0}部</value>
+  </data>
+  <data name="Chinese" xml:space="preserve">
+    <value>中文</value>
+  </data>
+  <data name="Clear_Task" xml:space="preserve">
+    <value>清除任务</value>
+  </data>
+  <data name="Clear_Text" xml:space="preserve">
+    <value>清空文本</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Close_Group_Control" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Close_WhatsApp" xml:space="preserve">
+    <value>关闭FaceBook</value>
+  </data>
+  <data name="Delete_Audio" xml:space="preserve">
+    <value>删除音频</value>
+  </data>
+  <data name="Delete_Picture" xml:space="preserve">
+    <value>删除图片</value>
+  </data>
+  <data name="Delete_Task" xml:space="preserve">
+    <value>删除任务</value>
+  </data>
+  <data name="Delete_Video" xml:space="preserve">
+    <value>删除视频</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>个人说明</value>
+  </data>
+  <data name="Ending_Interval_Less_Than_Two" xml:space="preserve">
+    <value>时间间隔结束值不能小于2秒</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>英文</value>
+  </data>
+  <data name="Enter_Phone_Number" xml:space="preserve">
+    <value>输入号码（每行一个号码）</value>
+  </data>
+  <data name="Error_Main_Window_Handle_Timeout" xml:space="preserve">
+    <value>轮询模拟器的主窗口句柄超时！</value>
+  </data>
+  <data name="Error_No_Vm_Process" xml:space="preserve">
+    <value>无法找到最新的模拟器进程！</value>
+  </data>
+  <data name="Error_Please_Launch_A_Vm" xml:space="preserve">
+    <value>请先启动一组虚拟器！</value>
+  </data>
+  <data name="Error_Vm_Path_Not_Exist" xml:space="preserve">
+    <value>模拟器启动路径不存在！</value>
+  </data>
+  <data name="Error_Vm_Path_Not_Set" xml:space="preserve">
+    <value>模拟器启动路径未设置！</value>
+  </data>
+  <data name="Exceed_Max_Import_Num" xml:space="preserve">
+    <value>单次导入数量不能超过100000个号码，请分批次导入</value>
+  </data>
+  <data name="Group" xml:space="preserve">
+    <value>第{0}组  {1}</value>
+  </data>
+  <data name="Group_Capacity" xml:space="preserve">
+    <value>每组显示手机</value>
+  </data>
+  <data name="Group_Messages" xml:space="preserve">
+    <value>群发消息</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>导入</value>
+  </data>
+  <data name="Import_Address_List" xml:space="preserve">
+    <value>导入通讯录</value>
+  </data>
+  <data name="Install_APK" xml:space="preserve">
+    <value>安装APK</value>
+  </data>
+  <data name="Invalid_Interval" xml:space="preserve">
+    <value>请输入正确的时间间隔</value>
+  </data>
+  <data name="Invalid_Repeat_Times" xml:space="preserve">
+    <value>请输入正确的发送次数</value>
+  </data>
+  <data name="Launch" xml:space="preserve">
+    <value>开启</value>
+  </data>
+  <data name="Launch_Group_Control" xml:space="preserve">
+    <value>启动群控</value>
+  </data>
+  <data name="Launch_WhatsApp" xml:space="preserve">
+    <value>启动FaceBook</value>
+  </data>
+  <data name="MsgType_Audio" xml:space="preserve">
+    <value>音频消息</value>
+  </data>
+  <data name="MsgType_Picture" xml:space="preserve">
+    <value>纯图片消息</value>
+  </data>
+  <data name="MsgType_Picture_Text" xml:space="preserve">
+    <value>图文消息</value>
+  </data>
+  <data name="MsgType_Text" xml:space="preserve">
+    <value>纯文本消息</value>
+  </data>
+  <data name="MsgType_Video" xml:space="preserve">
+    <value>纯视频消息</value>
+  </data>
+  <data name="MsgType_Video_Text" xml:space="preserve">
+    <value>视文消息</value>
+  </data>
+  <data name="New_Group" xml:space="preserve">
+    <value>新建群组</value>
+  </data>
+  <data name="NickName" xml:space="preserve">
+    <value>      昵称</value>
+  </data>
+  <data name="Phone_Num" xml:space="preserve">
+    <value>手机 {0}</value>
+  </data>
+  <data name="Picture" xml:space="preserve">
+    <value>图片</value>
+  </data>
+  <data name="Picture_Filter" xml:space="preserve">
+    <value>图片|*.jpg;*.png;*.jpeg;*.bmp;*.gif</value>
+  </data>
+  <data name="Post_Moments" xml:space="preserve">
+    <value>发送动态</value>
+  </data>
+  <data name="Product_Name" xml:space="preserve">
+    <value>康传媒Facebook群控系统V5.0</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>个人信息</value>
+  </data>
+  <data name="Refresh_Task" xml:space="preserve">
+    <value>刷新任务</value>
+  </data>
+  <data name="Repeat_Time_Less_Than_One" xml:space="preserve">
+    <value>发送次数不能小于1</value>
+  </data>
+  <data name="Row_Capacity" xml:space="preserve">
+    <value>每行显示手机</value>
+  </data>
+  <data name="Save_Parameters" xml:space="preserve">
+    <value>保存参数</value>
+  </data>
+  <data name="Save_Profile" xml:space="preserve">
+    <value>确认修改</value>
+  </data>
+  <data name="Save_Success" xml:space="preserve">
+    <value>保存成功</value>
+  </data>
+  <data name="Search_Task" xml:space="preserve">
+    <value>查询任务</value>
+  </data>
+  <data name="Second" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="Select_All" xml:space="preserve">
+    <value>全选</value>
+  </data>
+  <data name="Select_Message_Type" xml:space="preserve">
+    <value>请选择消息类型</value>
+  </data>
+  <data name="Select_Path" xml:space="preserve">
+    <value>选择</value>
+  </data>
+  <data name="Select_Phone_File" xml:space="preserve">
+    <value>请选择号码文件</value>
+  </data>
+  <data name="Select_Picture" xml:space="preserve">
+    <value>请选择图片</value>
+  </data>
+  <data name="Select_Video" xml:space="preserve">
+    <value>请选择视频</value>
+  </data>
+  <data name="Select_Vm" xml:space="preserve">
+    <value>请选择手机</value>
+  </data>
+  <data name="Send_Message_Interval" xml:space="preserve">
+    <value>每次间隔时间</value>
+  </data>
+  <data name="Send_Message_Times" xml:space="preserve">
+    <value>每个手机发送次数</value>
+  </data>
+  <data name="Send_Socket" xml:space="preserve">
+    <value>发送socket</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="Starting_Interval_Greater_Than_Ending" xml:space="preserve">
+    <value>时间间隔起始值不能大于等于结束值</value>
+  </data>
+  <data name="Starting_Interval_Less_Than_One" xml:space="preserve">
+    <value>时间间隔起始值不能小于1秒</value>
+  </data>
+  <data name="Submitted_Task" xml:space="preserve">
+    <value>已提交{0}条任务</value>
+  </data>
+  <data name="Submit_Task" xml:space="preserve">
+    <value>提交任务</value>
+  </data>
+  <data name="System_Language" xml:space="preserve">
+    <value>系统语言</value>
+  </data>
+  <data name="Task_Management" xml:space="preserve">
+    <value>任务管理</value>
+  </data>
+  <data name="Text" xml:space="preserve">
+    <value>文本</value>
+  </data>
+  <data name="Text_File" xml:space="preserve">
+    <value>文本文件|*.txt</value>
+  </data>
+  <data name="Turn_Off_All_Phones" xml:space="preserve">
+    <value>关闭全部手机</value>
+  </data>
+  <data name="Video" xml:space="preserve">
+    <value>视频</value>
+  </data>
+  <data name="Video_Filter" xml:space="preserve">
+    <value>视频|*.mp4;*.avi;*.flv;*.wmv</value>
+  </data>
+  <data name="Facebook_Operation" xml:space="preserve">
+    <value>FaceBook操作</value>
+  </data>
+  <data name="Col_Id" xml:space="preserve">
+    <value>编号</value>
+  </data>
+  <data name="Col_Parameter" xml:space="preserve">
+    <value>任务参数</value>
+  </data>
+  <data name="Col_Phone" xml:space="preserve">
+    <value>对应手机</value>
+  </data>
+  <data name="Col_Result" xml:space="preserve">
+    <value>执行结果</value>
+  </data>
+  <data name="Col_Status" xml:space="preserve">
+    <value>任务状态</value>
+  </data>
+  <data name="Col_TaskType" xml:space="preserve">
+    <value>任务类型</value>
+  </data>
+  <data name="Col_Time" xml:space="preserve">
+    <value>任务时间</value>
+  </data>
+  <data name="Delete_Task_Confirmation" xml:space="preserve">
+    <value>确认删除吗?</value>
+  </data>
+  <data name="Delete_Task_Tips" xml:space="preserve">
+    <value>是否删除所有任务，删除后无法恢复</value>
+  </data>
+  <data name="MomentType_Picture" xml:space="preserve">
+    <value>图片动态</value>
+  </data>
+  <data name="MomentType_Picture_Text" xml:space="preserve">
+    <value>图文动态</value>
+  </data>
+  <data name="MomentType_Text" xml:space="preserve">
+    <value>文本动态</value>
+  </data>
+  <data name="Authenticating" xml:space="preserve">
+    <value>远程鉴权中......</value>
+  </data>
+  <data name="Authentication" xml:space="preserve">
+    <value>鉴权</value>
+  </data>
+  <data name="Authentication_Failure" xml:space="preserve">
+    <value>远程鉴权失败，请联系客户经理</value>
+  </data>
+  <data name="Check_Database_Service" xml:space="preserve">
+    <value>正在检测数据库服务......</value>
+  </data>
+  <data name="Please_Wait" xml:space="preserve">
+    <value>请稍后......</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>重试</value>
+  </data>
+  <data name="Start_Database_Failure" xml:space="preserve">
+    <value>数据库服务启动失败，请先启动数据库服务</value>
+  </data>
+  <data name="Downloading" xml:space="preserve">
+    <value>正在下载更新，请稍候。</value>
+  </data>
+  <data name="Handling_Download" xml:space="preserve">
+    <value>正在处理更新文件,请稍候。</value>
+  </data>
+  <data name="Updating" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="Updating_Tips" xml:space="preserve">
+    <value>请勿关闭程序，正在升级中......
+    升级完成后会自动启动新版本。
+  </value>
+  </data>
+  <data name="Vm_Path_Not_Set" xml:space="preserve">
+    <value>模拟器路径未设置</value>
+  </data>
+  <data name="WhatsApp_Op_UpdateNickName" xml:space="preserve">
+    <value>没有填写需要修改的内容或图片</value>
+  </data>
+  <data name="WhatsApp_Op_TaskType_UpNickName" xml:space="preserve">
+    <value>修改个人信息</value>
+  </data>
+  <data name="Clear_Contact" xml:space="preserve">
+    <value>清除通讯录</value>
+  </data>
+  <data name="Explain" xml:space="preserve">
+    <value>说明</value>
+  </data>
+  <data name="Generate" xml:space="preserve">
+    <value>生成</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="International_Number" xml:space="preserve">
+    <value>国际号码</value>
+  </data>
+  <data name="login_Info" xml:space="preserve">
+    <value>登录信息</value>
+  </data>
+  <data name="Phone_Number" xml:space="preserve">
+    <value>电话号码</value>
+  </data>
+  <data name="Proxy_IP" xml:space="preserve">
+    <value>代理IP</value>
+  </data>
+  <data name="Proxy_Port" xml:space="preserve">
+    <value>代理端口</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="Scanning_Number" xml:space="preserve">
+    <value>扫号</value>
+  </data>
+  <data name="Sign_In" xml:space="preserve">
+    <value>登录</value>
+  </data>
+  <data name="Table_Beginning" xml:space="preserve">
+    <value>表始</value>
+  </data>
+  <data name="Failed_App_Update" xml:space="preserve">
+    <value>App更新失败</value>
+  </data>
+  <data name="Finish_App_Update" xml:space="preserve">
+    <value>App更新成功</value>
+  </data>
+  <data name="No_Updated_App" xml:space="preserve">
+    <value>App已是最新版本</value>
+  </data>
+  <data name="Create_Group" xml:space="preserve">
+    <value>创建群组</value>
+  </data>
+  <data name="Group_Member_Explanation" xml:space="preserve">
+    <value>将会把通讯录中该范围的联系人加入到群组</value>
+  </data>
+  <data name="Group_Member_Range" xml:space="preserve">
+    <value>要加入的群成员范围</value>
+  </data>
+  <data name="Group_Name" xml:space="preserve">
+    <value>群组名称</value>
+  </data>
+  <data name="Add_Friends" xml:space="preserve">
+    <value>添加好友</value>
+  </data>
+  <data name="Group_Homepage" xml:space="preserve">
+    <value>小组与主页</value>
+  </data>
+  <data name="Join_Groups" xml:space="preserve">
+    <value>批量加群（小组）</value>
+  </data>
+  <data name="Phone_Management" xml:space="preserve">
+    <value>手机管理</value>
+  </data>
+  <data name="Search_Friends_By_Name" xml:space="preserve">
+    <value>根据名称搜索好友</value>
+  </data>
+  <data name="Add_Times" xml:space="preserve">
+    <value>每个手机添加</value>
+  </data>
+  <data name="Click_Interval" xml:space="preserve">
+    <value>每次点击时间间隔</value>
+  </data>
+  <data name="Maintain_Accounts" xml:space="preserve">
+    <value>互动养号</value>
+  </data>
+  <data name="Search_City" xml:space="preserve">
+    <value>搜索城市</value>
+  </data>
+  <data name="Search_Explanation" xml:space="preserve">
+    <value>一行一个名字，如下。
+    张三
+    李四
+    王五
+  </value>
+  </data>
+  <data name="Search_Friend_Tips" xml:space="preserve">
+    <value>请把需要搜索的好友名字输入或粘贴到此文本框</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>次</value>
+  </data>
+  <data name="Friends_Timeline_Like" xml:space="preserve">
+    <value>好友时间线点赞</value>
+  </data>
+  <data name="Group_Explanation" xml:space="preserve">
+    <value>一行一个小组</value>
+  </data>
+  <data name="Timeline_Like" xml:space="preserve">
+    <value>时间线点赞</value>
+  </data>
+  <data name="Accept" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="Click_Friend_Number" xml:space="preserve">
+    <value>点击好友的数量</value>
+  </data>
+  <data name="Like_Number" xml:space="preserve">
+    <value>点赞数量</value>
+  </data>
+  <data name="Slide_Number" xml:space="preserve">
+    <value>滑动次数</value>
+  </data>
+  <data name="Install" xml:space="preserve">
+    <value>安装</value>
+  </data>
+  <data name="Uninstall" xml:space="preserve">
+    <value>卸载</value>
+  </data>
+  <data name="Install_Uninstall_APK" xml:space="preserve">
+    <value>安装卸载APK</value>
+  </data>
+  <data name="Home_Page" xml:space="preserve">
+    <value>主页名称</value>
+  </data>
+  <data name="Is_Infinite" xml:space="preserve">
+    <value>永不停止</value>
+  </data>
+  <data name="Is_Loop_Execution" xml:space="preserve">
+    <value>是否循环执行</value>
+  </data>
+  <data name="Like_Homepage" xml:space="preserve">
+    <value>点赞主页</value>
+  </data>
+  <data name="Like_Posts" xml:space="preserve">
+    <value>点赞群贴</value>
+  </data>
+  <data name="Loop_Execution" xml:space="preserve">
+    <value>循环执行</value>
+  </data>
+  <data name="Loop_Interval" xml:space="preserve">
+    <value>循环间隔时间</value>
+  </data>
+  <data name="Loop_Times" xml:space="preserve">
+    <value>循环停止次数</value>
+  </data>
+  <data name="Minute" xml:space="preserve">
+    <value>分钟</value>
+  </data>
+  <data name="Single_Execution" xml:space="preserve">
+    <value>单次执行</value>
+  </data>
+  <data name="Enter_Copywriting" xml:space="preserve">
+    <value>请输入您的内容信息</value>
+  </data>
+  <data name="Group_Message_To_Friends" xml:space="preserve">
+    <value>好友群发消息</value>
+  </data>
+  <data name="Group_Message_To_Groups" xml:space="preserve">
+    <value>群发消息到小组</value>
+  </data>
+  <data name="Select_Picture_Tips" xml:space="preserve">
+    <value>最多支持9张图片，每张图片大小：15M</value>
+  </data>
+  <data name="Send_Homepage" xml:space="preserve">
+    <value>发送主页</value>
+  </data>
+  <data name="From_Previous_Position" xml:space="preserve">
+    <value>从上次位置开始</value>
+  </data>
+  <data name="From_The_Beginning" xml:space="preserve">
+    <value>从头开始</value>
+  </data>
+  <data name="History_Record" xml:space="preserve">
+    <value>历史记录</value>
+  </data>
+  <data name="Number_Of_Friends_To_Send" xml:space="preserve">
+    <value>发送到好友的数量</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>地址</value>
+  </data>
+  <data name="Content_Title" xml:space="preserve">
+    <value>内容标题</value>
+  </data>
+  <data name="Detail_Content" xml:space="preserve">
+    <value>详细内容</value>
+  </data>
+  <data name="Number_Of_Pics_Per_Phone" xml:space="preserve">
+    <value>每个手机图片张数</value>
+  </data>
+  <data name="One_Address_Per_Line" xml:space="preserve">
+    <value>一行一个地址</value>
+  </data>
+  <data name="One_Keyword_Per_Line" xml:space="preserve">
+    <value>一行一个小组名称</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>价格</value>
+  </data>
+  <data name="Related_Name" xml:space="preserve">
+    <value>相关名称</value>
+  </data>
+  <data name="Add_Group_Admin" xml:space="preserve">
+    <value>添加小组管理员</value>
+  </data>
+  <data name="Add_Group_Member" xml:space="preserve">
+    <value>添加小组成员</value>
+  </data>
+  <data name="Add_Language" xml:space="preserve">
+    <value>添加语言</value>
+  </data>
+  <data name="Group_Management" xml:space="preserve">
+    <value>小组管理</value>
+  </data>
+  <data name="Group_Type_Tag" xml:space="preserve">
+    <value>小组标签类型</value>
+  </data>
+  <data name="Group_Type_Tag_Tips" xml:space="preserve">
+    <value>每个手机都要对应一个小组标签，一行一个小组标签，请按回车键换行。</value>
+  </data>
+  <data name="Invite_Friends_To_Group" xml:space="preserve">
+    <value>邀请好友进小组</value>
+  </data>
+  <data name="Invite_Friends_To_Like" xml:space="preserve">
+    <value>邀请好友点赞</value>
+  </data>
+  <data name="Operation_Times_Per_Phone" xml:space="preserve">
+    <value>每个手机操作次数</value>
+  </data>
+  <data name="Simplified_Chinese" xml:space="preserve">
+    <value>简体中文</value>
+  </data>
+  <data name="Subscribe_Homepage" xml:space="preserve">
+    <value>关注主页</value>
+  </data>
+  <data name="Traditional_Chinese" xml:space="preserve">
+    <value>繁体中文</value>
+  </data>
+  <data name="AddFriendByFriend" xml:space="preserve">
+    <value>添加好友的好友</value>
+  </data>
+  <data name="AddListPhoneNums" xml:space="preserve">
+    <value>添加通讯录好友</value>
+  </data>
+  <data name="Click_Test" xml:space="preserve">
+    <value>点击测试</value>
+  </data>
+  <data name="IMEI" xml:space="preserve">
+    <value>IMEI</value>
+  </data>
+  <data name="Phone_Brand" xml:space="preserve">
+    <value>手机品牌</value>
+  </data>
+  <data name="Phone_Type" xml:space="preserve">
+    <value>手机型号</value>
+  </data>
+  <data name="Reconstruction" xml:space="preserve">
+    <value>重建模拟器</value>
+  </data>
+  <data name="Simulator_Height" xml:space="preserve">
+    <value>模拟器高度</value>
+  </data>
+  <data name="Simulator_Width" xml:space="preserve">
+    <value>模拟器宽度</value>
+  </data>
+  <data name="Check_PageNums" xml:space="preserve">
+    <value>填写的主页数量与操作的手机数量不一致，请保持主页数量和勾选的手机数一致</value>
+  </data>
+  <data name="AddHomePageFriend" xml:space="preserve">
+    <value>添加主页好友</value>
+  </data>
+  <data name="AddRecommFriend" xml:space="preserve">
+    <value>添加推荐好友</value>
+  </data>
+  <data name="WhatsApp_Op_Other" xml:space="preserve">
+    <value>其他</value>
+  </data>
+  <data name="Add_Friend" xml:space="preserve">
+    <value>加为好友</value>
+  </data>
+  <data name="Find_Friends" xml:space="preserve">
+    <value>搜索好友</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="Search_By_Name" xml:space="preserve">
+    <value>按姓名搜索</value>
+  </data>
+  <data name="Search_HomePage_Name" xml:space="preserve">
+    <value>请输入要搜索的主页名称</value>
+  </data>
+  <data name="Buddy_Time_Line" xml:space="preserve">
+    <value>好友的时间线</value>
+  </data>
+  <data name="Group_Dynamics" xml:space="preserve">
+    <value>小组动态</value>
+  </data>
+  <data name="My_Dynamics" xml:space="preserve">
+    <value>我的动态</value>
+  </data>
+  <data name="Share_Content" xml:space="preserve">
+    <value>帖子内容分享</value>
+  </data>
+  <data name="Home_Page_Name" xml:space="preserve">
+    <value>主页名称</value>
+  </data>
+  <data name="Operation_Phone_Frequency" xml:space="preserve">
+    <value>每个手机操作次数</value>
+  </data>
+  <data name="Phone_Height" xml:space="preserve">
+    <value>模拟器高</value>
+  </data>
+  <data name="Phone_Width" xml:space="preserve">
+    <value>模拟器宽</value>
+  </data>
+  <data name="Group_Name_Praise" xml:space="preserve">
+    <value>小组名称</value>
+  </data>
+  <data name="Camera" xml:space="preserve">
+    <value>相机</value>
+  </data>
+  <data name="Invalid_Operation_Times" xml:space="preserve">
+    <value>请输入有效的添加次数</value>
+  </data>
+  <data name="NumOfPhone_Friends_Mismatch" xml:space="preserve">
+    <value>选中的手机数量和输入的名称数量不一致</value>
+  </data>
+  <data name="Groups" xml:space="preserve">
+    <value>小组</value>
+  </data>
+  <data name="Join_Group" xml:space="preserve">
+    <value>加入小组</value>
+  </data>
+  <data name="Search_Group" xml:space="preserve">
+    <value>搜索小组</value>
+  </data>
+  <data name="Add_PageFriend_Comment" xml:space="preserve">
+    <value>评论</value>
+  </data>
+  <data name="Please_Choose_To_Share_The_Content_Of_The_Post" xml:space="preserve">
+    <value>请选择分享帖子内容</value>
+  </data>
+  <data name="Number_Of_Operations_Per_Cell_Phone" xml:space="preserve">
+    <value>每个手机操作次数</value>
+  </data>
+  <data name="Search_Result" xml:space="preserve">
+    <value>搜索结果</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>添加</value>
+  </data>
+  <data name="Complete" xml:space="preserve">
+    <value>完成</value>
+  </data>
+  <data name="Invalid_Like_Time" xml:space="preserve">
+    <value>请输入有效的点赞次数</value>
+  </data>
+  <data name="Invalid_Slide_Time" xml:space="preserve">
+    <value>请输入有效的滑动次数</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>赞按钮，双击并长按即可留下心情。</value>
+  </data>
+  <data name="Friends" xml:space="preserve">
+    <value>好友</value>
+  </data>
+  <data name="Invalid_Friend_Num" xml:space="preserve">
+    <value>请输入正确的好友数量</value>
+  </data>
+  <data name="Remove_Friend" xml:space="preserve">
+    <value>删除好友</value>
+  </data>
+  <data name="WhatsApp_AllFriends" xml:space="preserve">
+    <value>全部好友</value>
+  </data>
+  <data name="Post" xml:space="preserve">
+    <value>分享新鲜事</value>
+  </data>
+  <data name="Share" xml:space="preserve">
+    <value>分享</value>
+  </data>
+  <data name="Share_Now" xml:space="preserve">
+    <value>立即分享</value>
+  </data>
+  <data name="All_Friends" xml:space="preserve">
+    <value>全部好友</value>
+  </data>
+  <data name="More_Options" xml:space="preserve">
+    <value>更多选项</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="See_Friends" xml:space="preserve">
+    <value>查看好友</value>
+  </data>
+  <data name="Homepage" xml:space="preserve">
+    <value>主页名称</value>
+  </data>
+  <data name="Message_Prompt" xml:space="preserve">
+    <value>消息提示</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>账号</value>
+  </data>
+  <data name="Login_Management" xml:space="preserve">
+    <value>登录管理</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>密码</value>
+  </data>
+  <data name="User_Id" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="Facebook_ConfirmFriends" xml:space="preserve">
+    <value>确认</value>
+  </data>
+  <data name="Facebook_MainPage" xml:space="preserve">
+    <value>主页</value>
+  </data>
+  <data name="Facebook_PhoneListFriend" xml:space="preserve">
+    <value>通讯录</value>
+  </data>
+  <data name="Facebook_Post" xml:space="preserve">
+    <value>帖子</value>
+  </data>
+  <data name="Facebook_Request" xml:space="preserve">
+    <value>请求</value>
+  </data>
+  <data name="Facebook_SearchResult" xml:space="preserve">
+    <value>查看{0}的搜索结果</value>
+  </data>
+  <data name="Reconnect" xml:space="preserve">
+    <value>重新连接</value>
+  </data>
+  <data name="App_Is_Already_Running" xml:space="preserve">
+    <value>程序已经在运行中</value>
+  </data>
+  <data name="Facebook_HaveNoneImport" xml:space="preserve">
+    <value>你还没有导入任何联系人信息。</value>
+  </data>
+  <data name="Facebook_HaveNoneRequest" xml:space="preserve">
+    <value>没有新请求</value>
+  </data>
+  <data name="Facebook_ManageContacts" xml:space="preserve">
+    <value>管理已导入的联系人</value>
+  </data>
+  <data name="Monitor" xml:space="preserve">
+    <value>监视器</value>
+  </data>
+  <data name="Binding_Phone_Num" xml:space="preserve">
+    <value>成功绑定数量</value>
+  </data>
+  <data name="Connected_Phone_Num" xml:space="preserve">
+    <value>成功连接数量</value>
+  </data>
+  <data name="Messaging" xml:space="preserve">
+    <value>通过消息发送</value>
+  </data>
+  <data name="Posting" xml:space="preserve">
+    <value>发帖</value>
+  </data>
+  <data name="Quick_Turn" xml:space="preserve">
+    <value>快转</value>
+  </data>
+  <data name="Release" xml:space="preserve">
+    <value>发布</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>社群</value>
+  </data>
+  <data name="Invite_Friends_Praise" xml:space="preserve">
+    <value>邀请好友赞主页</value>
+  </data>
+  <data name="AddFriend_Failure" xml:space="preserve">
+    <value>添加好友：失败</value>
+  </data>
+  <data name="AddFriend_Success" xml:space="preserve">
+    <value>添加好友：成功</value>
+  </data>
+  <data name="Assignment_Failure" xml:space="preserve">
+    <value>赋值：失败</value>
+  </data>
+  <data name="Assignment_Success" xml:space="preserve">
+    <value>赋值：成功</value>
+  </data>
+  <data name="GotoHomePage_Failure" xml:space="preserve">
+    <value>跳转到主页：失败</value>
+  </data>
+  <data name="GotoHomePage_Success" xml:space="preserve">
+    <value>跳转到主页：成功</value>
+  </data>
+  <data name="GotoPersonalHomePage_Failure" xml:space="preserve">
+    <value>跳转到个人主页：失败</value>
+  </data>
+  <data name="GotoPersonalHomePage_Success" xml:space="preserve">
+    <value>跳转到个人主页：成功</value>
+  </data>
+  <data name="GotoSearchFriends_Failure" xml:space="preserve">
+    <value>跳转到搜索好友：失败</value>
+  </data>
+  <data name="GotoSearchFriends_Success" xml:space="preserve">
+    <value>跳转到搜索好友：成功</value>
+  </data>
+  <data name="GotoSearchFriendTab_Failure" xml:space="preserve">
+    <value>跳转到搜索选项：失败</value>
+  </data>
+  <data name="GotoSearchFriendTab_Success" xml:space="preserve">
+    <value>跳转到搜索选项：成功</value>
+  </data>
+  <data name="Current_Task" xml:space="preserve">
+    <value>当前任务</value>
+  </data>
+  <data name="Add_More_" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Photo_Video" xml:space="preserve">
+    <value>照片/视频</value>
+  </data>
+  <data name="Eliminate_Success" xml:space="preserve">
+    <value>清除成功</value>
+  </data>
+  <data name="AddToYourPost" xml:space="preserve">
+    <value>添加更多元素</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>完成</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>详情</value>
+  </data>
+  <data name="Overview" xml:space="preserve">
+    <value>概况</value>
+  </data>
+  <data name="Red_Background" xml:space="preserve">
+    <value>纯红色，背景</value>
+  </data>
+  <data name="Facebook_Friend_Advise" xml:space="preserve">
+    <value>建议</value>
+  </data>
+  <data name="Facebook_AllowFriend" xml:space="preserve">
+    <value>通过好友请求</value>
+  </data>
+  <data name="Facebook_FocusHomePage" xml:space="preserve">
+    <value>关注主页</value>
+  </data>
+  <data name="Facebook_FriendTimelineLike" xml:space="preserve">
+    <value>好友时间线点赞</value>
+  </data>
+  <data name="Facebook_InviteFriendsLike" xml:space="preserve">
+    <value>邀请好友点赞</value>
+  </data>
+  <data name="Facebook_InvitingFriends" xml:space="preserve">
+    <value>邀请好友进小组</value>
+  </data>
+  <data name="Facebook_OpError" xml:space="preserve">
+    <value>失败</value>
+  </data>
+  <data name="Facebook_PublishPost" xml:space="preserve">
+    <value>发送动态</value>
+  </data>
+  <data name="Facebook_SearchAndAddFriend" xml:space="preserve">
+    <value>搜索添加好友</value>
+  </data>
+  <data name="Facebook_SearchAndAddGroup" xml:space="preserve">
+    <value>搜索加入群组</value>
+  </data>
+  <data name="Facebook_SendHomepage" xml:space="preserve">
+    <value>发送主页</value>
+  </data>
+  <data name="Facebook_TimelineLike" xml:space="preserve">
+    <value>时间线点赞</value>
+  </data>
+  <data name="GotoMyTimeline_Failure" xml:space="preserve">
+    <value>跳转到我的时间线：失败</value>
+  </data>
+  <data name="GotoMyTimeline_Success" xml:space="preserve">
+    <value>跳转到我的时间线：成功</value>
+  </data>
+  <data name="GotoPhoto_Failure" xml:space="preserve">
+    <value>跳转到照片：失败</value>
+  </data>
+  <data name="GotoPhoto_Success" xml:space="preserve">
+    <value>跳转到照片：成功</value>
+  </data>
+  <data name="Photo" xml:space="preserve">
+    <value>照片</value>
+  </data>
+  <data name="SaySomething" xml:space="preserve">
+    <value>说说此刻的心情...</value>
+  </data>
+  <data name="UpdatePhoto_Failure" xml:space="preserve">
+    <value>更新照片：失败</value>
+  </data>
+  <data name="UpdatePhoto_Success" xml:space="preserve">
+    <value>更新照片：成功</value>
+  </data>
+  <data name="UploadPhoto_Failure" xml:space="preserve">
+    <value>上传照片：失败</value>
+  </data>
+  <data name="UploadPhoto_Success" xml:space="preserve">
+    <value>上传照片：成功</value>
+  </data>
+  <data name="Stories" xml:space="preserve">
+    <value>快拍</value>
+  </data>
+  <data name="Facebook_Add_Times" xml:space="preserve">
+    <value>每个手机添加(次)</value>
+  </data>
+  <data name="Facebook_Op_Inttime" xml:space="preserve">
+    <value>每次操作间隔(秒)</value>
+  </data>
+  <data name="TurnOn" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="TypeAMessage" xml:space="preserve">
+    <value>输入消息...</value>
+  </data>
+  <data name="Users" xml:space="preserve">
+    <value>用户</value>
+  </data>
+  <data name="WelcomeToMessenger" xml:space="preserve">
+    <value>欢迎使用 Messenger</value>
+  </data>
+  <data name="Close_Messenger" xml:space="preserve">
+    <value>关闭Messenger</value>
+  </data>
+  <data name="Launch_Messenger" xml:space="preserve">
+    <value>启动Messenger</value>
+  </data>
+  <data name="Facebook_AddGroupUser" xml:space="preserve">
+    <value>添加群组好友</value>
+  </data>
+  <data name="Facebook_AddGroupUser_Tips" xml:space="preserve">
+    <value>请填写已经加入的小组名称，每行一个，每个手机对应一个小组。</value>
+  </data>
+  <data name="Facebook_Group" xml:space="preserve">
+    <value>小组</value>
+  </data>
+  <data name="Facebook_Member" xml:space="preserve">
+    <value>成员</value>
+  </data>
+  <data name="Facebook_NotFoundGroup" xml:space="preserve">
+    <value>没有找到对应的小组</value>
+  </data>
+  <data name="DialogDetails" xml:space="preserve">
+    <value>对话详情</value>
+  </data>
+  <data name="Facebook_Open" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="Facebook_IsWholeTask" xml:space="preserve">
+    <value>是否全局任务</value>
+  </data>
+  <data name="ContactsTab" xml:space="preserve">
+    <value>联系人选项卡</value>
+  </data>
+  <data name="Send" xml:space="preserve">
+    <value>发送</value>
+  </data>
+  <data name="WelcomeToMessengerLite" xml:space="preserve">
+    <value>欢迎使用 Messenger Lite</value>
+  </data>
+  <data name="WriteAMessage" xml:space="preserve">
+    <value>发消息...</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>返回</value>
+  </data>
+  <data name="Facebook_Check_GroupNums" xml:space="preserve">
+    <value>填写的小组名称数量与操作的手机数量不一致，请保持小组名称数量和勾选的手机数一致</value>
+  </data>
+  <data name="GoodsDescription" xml:space="preserve">
+    <value>货品说明（非必填）</value>
+  </data>
+  <data name="GoodsPrice" xml:space="preserve">
+    <value>价格 ￥</value>
+  </data>
+  <data name="InvalidPrice" xml:space="preserve">
+    <value>价格必须是数字</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>地点（非必填）</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>下一步</value>
+  </data>
+  <data name="NoAddress" xml:space="preserve">
+    <value>请输入地址</value>
+  </data>
+  <data name="NoGroupNames" xml:space="preserve">
+    <value>请输入小组名称</value>
+  </data>
+  <data name="NoPrice" xml:space="preserve">
+    <value>请输入价格</value>
+  </data>
+  <data name="NotEnoughAddresses" xml:space="preserve">
+    <value>地址数量不够</value>
+  </data>
+  <data name="NotEnoughGroups" xml:space="preserve">
+    <value>小组数量不够</value>
+  </data>
+  <data name="NotEnoughPictures" xml:space="preserve">
+    <value>图片数量不够</value>
+  </data>
+  <data name="NoTitle" xml:space="preserve">
+    <value>请输入标题</value>
+  </data>
+  <data name="PostGoods" xml:space="preserve">
+    <value>发布</value>
+  </data>
+  <data name="SearchPlaces" xml:space="preserve">
+    <value>搜索地点</value>
+  </data>
+  <data name="SellingSomething" xml:space="preserve">
+    <value>想卖什么货品？</value>
+  </data>
+</root>

@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="Wx.Qunkong360.Wpf.ContentViews.MonitorControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Wx.Qunkong360.Wpf.ContentViews"
+             mc:Ignorable="d" 
+             d:DesignHeight="480" d:DesignWidth="320">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <DockPanel>
+            <!--<Image Width="50" Height="50" Margin="5"></Image>-->
+            <!--<TextBlock x:Name="lblConnectionStatus" Width="40" Height="40"  Margin="5" Background="Green"></TextBlock>-->
+            <Image x:Name="imgConnectionStatus" Width="40" Height="40" Margin="5"></Image>
+            
+            <StackPanel VerticalAlignment="Center" Margin="5">
+                <TextBlock x:Name="lblPhoneId" Margin="2" VerticalAlignment="Center" >手机编号：100</TextBlock>
+                <TextBlock x:Name="lblPhoneNickName" Margin="2" VerticalAlignment="Center">手机标识：emulater-5554-9999</TextBlock>
+            </StackPanel>
+
+            <!--<Button x:Name="btnReconnect" HorizontalAlignment="Right" Margin="5" Padding="2" Click="btnReconnect_Click">重新连接</Button>-->
+        </DockPanel>
+
+        <TextBox x:Name="tbLog" Grid.Row="1" Visibility="Collapsed">
+            <TextBox.Style>
+                <Style TargetType="TextBox">
+                    <Setter Property="Width" Value="320"></Setter>
+                    <Setter Property="Height" Value="430"></Setter>
+                    <Setter Property="AcceptsReturn" Value="True"></Setter>
+                    <Setter Property="VerticalScrollBarVisibility" Value="Auto"></Setter>
+                    <Setter Property="HorizontalScrollBarVisibility" Value="Auto"></Setter>
+                </Style>
+
+            </TextBox.Style>
+        </TextBox>
+    </Grid>
+</UserControl>

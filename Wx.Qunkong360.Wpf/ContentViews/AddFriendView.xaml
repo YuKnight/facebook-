@@ -1,0 +1,321 @@
+﻿<UserControl x:Class="Wx.Qunkong360.Wpf.ContentViews.AddFriendView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Wx.Qunkong360.Wpf.ContentViews"
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:wpf="clr-namespace:WpfTreeView;assembly=WpfTreeView"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="1000" FontSize="16">
+
+
+        <TabControl>
+            <TabItem x:Name="tabImportList">
+                <TabItem.Header>
+                    <Label x:Name="lblImportList" Content="导入通讯录" MouseLeftButtonDown="lblImportList_MouseLeftButtonDown"></Label>
+                </TabItem.Header>
+                <Grid x:Name="gridImportList">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="175"></ColumnDefinition>
+                        <ColumnDefinition Width="279*"/>
+                        <ColumnDefinition Width="28*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <wpf:WpfTreeView x:Name="treeviewImportList"></wpf:WpfTreeView>
+                    <StackPanel Grid.Column="1" Grid.ColumnSpan="2">
+                        <StackPanel Margin="10">
+                            <TextBlock x:Name="tbEnterPhoneNumsTips"></TextBlock>
+                            <RichTextBox x:Name="rtbPhoneNums" Height="300">
+                                <RichTextBox.Document>
+                                    <FlowDocument LineHeight="2"></FlowDocument>
+                                </RichTextBox.Document>
+                            </RichTextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBox x:Name="tbContactPath" Width="220" md:TextFieldAssist.HasTextAreaBox="True"></TextBox>
+                            <Button x:Name="btnSelect" Margin="5" Click="btnSelect_Click"></Button>
+                            <Button x:Name="btnImport" Margin="5" Click="btnImport_Click"></Button>
+                            <Button x:Name="btnClearContact" Margin="30 5" Click="btnClearContact_Click"></Button>
+                        </StackPanel>
+                    </StackPanel>
+
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="tabAddListFriend">
+                <TabItem.Header>
+                    <Label x:Name="lblAddListFriend" Content="添加通讯录好友" MouseLeftButtonDown="lblAddListFriend_MouseLeftButtonDown"></Label>
+                </TabItem.Header>
+
+                <Grid x:Name="gridAddListFriend">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="175" ></ColumnDefinition>
+                        <ColumnDefinition Width="279*"/>
+                        <ColumnDefinition Width="28*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <wpf:WpfTreeView x:Name="treeviewAddListFriend"></wpf:WpfTreeView>
+                    <StackPanel Grid.Column="1" Grid.ColumnSpan="2">
+                        <StackPanel Margin="10">
+                            <TextBlock x:Name="tbPhoneAdd">
+                            <Label x:Name="lbl_PhoneAdd" Content="每个手机添加(次)" ></Label>
+                            <TextBox x:Name="txt_phoneaddtxt" Width="200" Text="1"></TextBox>
+                            </TextBlock>
+
+                            <TextBlock x:Name="tbopersecond">
+                            <Label x:Name="lbl_opersecond" Content="每次操作间隔(秒)"></Label>
+                            <TextBox x:Name="txt_operminsecondtxt" Width="100" Text="5" />
+                            ---
+                            <TextBox x:Name="txt_opermaxsecondtxt" Width="100" Text="10"></TextBox>
+                            </TextBlock>
+
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <Button x:Name="btn_submittask" Margin="5" Click="btn_submittask_Click"></Button>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="tabAddFriendByFriend">
+                <TabItem.Header>
+                    <Label x:Name="lblAddFriendByFriend" Content="添加好友的好友" MouseLeftButtonDown="lblAddFriendByFriend_MouseLeftButtonDown"></Label>
+                </TabItem.Header>
+
+                <Grid x:Name="gridAddFriendByFriend">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="175" ></ColumnDefinition>
+                        <ColumnDefinition Width="279*"/>
+                        <ColumnDefinition Width="28*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <wpf:WpfTreeView x:Name="treeviewAddFriendByFriend"></wpf:WpfTreeView>
+                    <StackPanel Grid.Column="1" Grid.ColumnSpan="2">
+                        <StackPanel Margin="10">
+                            <TextBlock x:Name="tbFriendPhoneAdd">
+                            <Label x:Name="lbl_FriendPhoneAdd" Content="每个手机添加(次)" ></Label>
+                            <TextBox x:Name="txt_FriendPhoneAddtxt" Width="200" Text="1"></TextBox>
+                            </TextBlock>
+
+                            <TextBlock x:Name="tbFriendOperSecond">
+                            <Label x:Name="lbl_FriendOperSecond" Content="每次操作间隔(秒)"></Label>
+                            <TextBox x:Name="txt_FriendOperminsecondtxt" Width="100" Text="5" />
+                            ---
+                            <TextBox x:Name="txt_FriendOpermaxsecondtxt" Width="100" Text="10"></TextBox>
+                            </TextBlock>
+
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <Button x:Name="btn_friendsubmittask" Margin="5" Click="btn_friendsubmittask_Click"></Button>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="tabAllowRequestFriend">
+                <TabItem.Header>
+                    <Label x:Name="lblAllowRequestFriend" Content="通过好友请求" MouseLeftButtonDown="lblAllowRequestFriend_MouseLeftButtonDown"></Label>
+                </TabItem.Header>
+                <Grid x:Name="gridAllowRequestFriend">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="175" ></ColumnDefinition>
+                        <ColumnDefinition Width="279*"/>
+                        <ColumnDefinition Width="28*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <wpf:WpfTreeView x:Name="treeviewAllowRequestFriend"></wpf:WpfTreeView>
+                    <StackPanel Grid.Column="1" Grid.ColumnSpan="2">
+                        <StackPanel Margin="10">
+                            <TextBlock x:Name="tbAllowRequestFriend1">
+                            <Label x:Name="lbl_AllowRequestNumsFriend" Content="每个手机添加(次)" ></Label>
+                            <TextBox x:Name="txt_AllowRequestFriend" Width="200" Text="1"></TextBox>
+                            </TextBlock>
+
+                            <TextBlock x:Name="tbAllowRequestFriend2">
+                            <Label x:Name="lbl_AllowRequestSecoFriend" Content="每次操作间隔(秒)"></Label>
+                            <TextBox x:Name="txt_AllowRequestMinFriend" Width="100" Text="5" />
+                            ---
+                            <TextBox x:Name="txt_AllowRequestMaxFriend" Width="100" Text="10"></TextBox>
+                            </TextBlock>
+
+                        <!--<TextBlock x:Name="tbIsWholeRequestFriend">
+                            <Label x:Name="lbl_IsWholeRequestFriend" Content="是否全局任务" ></Label>
+                            <CheckBox x:Name="checkIsWholeRequestFriend"></CheckBox>                            
+                        </TextBlock>-->
+                            
+                    </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <Button x:Name="btn_AllowRequestSubmitTask" Margin="5" Click="btn_AllowRequestSubmitTask_Click"></Button>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="tabAddRecommFriend">
+                <TabItem.Header>
+                    <Label x:Name="lblAddRecommFriend" Content="添加推荐好友" MouseLeftButtonDown="lblAddRecommFriend_MouseLeftButtonDown"></Label>
+                </TabItem.Header>
+                <Grid x:Name="gridAddRecommFriend">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="175" ></ColumnDefinition>
+                        <ColumnDefinition Width="279*"/>
+                        <ColumnDefinition Width="28*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <wpf:WpfTreeView x:Name="treeviewAddRecommFriend"></wpf:WpfTreeView>
+                    <StackPanel Grid.Column="1" Grid.ColumnSpan="2">
+                        <StackPanel Margin="10">
+                            <TextBlock x:Name="tbAddRecommFriend1">
+                            <Label x:Name="lbl_AddRecommNumsFriend" Content="每个手机添加(次)" ></Label>
+                            <TextBox x:Name="txt_AddRecommFriend" Width="200" Text="1"></TextBox>
+                            </TextBlock>
+
+                            <TextBlock x:Name="tbAddRecommFriend2">
+                            <Label x:Name="lbl_AddRecommSecoFriend" Content="每次操作间隔(秒)"></Label>
+                            <TextBox x:Name="txt_AddRecommMinFriend" Width="100" Text="5" />
+                            ---
+                            <TextBox x:Name="txt_AddRecommMaxFriend" Width="100" Text="10"></TextBox>
+                            </TextBlock>
+
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <Button x:Name="btn_recommsubmittask" Margin="5" Click="btn_recommsubmittask_Click"></Button>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="tabAddPageFriend">
+                <TabItem.Header>
+                    <Label x:Name="lblAddPageFriend" Content="添加主页好友" MouseLeftButtonDown="lblAddPageFriend_MouseLeftButtonDown"></Label>
+                </TabItem.Header>
+
+                <Grid x:Name="gridAddPageFriend">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="180"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition Width="450"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <wpf:WpfTreeView x:Name="treeviewAddPageFriend"></wpf:WpfTreeView>
+                    <StackPanel Grid.Column="1" Grid.ColumnSpan="2">
+                        <StackPanel Margin="10">
+                            <TextBlock x:Name="tbAddPageFriend"></TextBlock>
+                            <RichTextBox x:Name="rtbAddPageFriend" Height="300">
+                                <RichTextBox.Document>
+                                    <FlowDocument LineHeight="2"></FlowDocument>
+                                </RichTextBox.Document>
+                            </RichTextBox>
+
+                            <TextBlock x:Name="tbAddPageFriend1">
+                            <Label x:Name="lbl_PageFriendNums" Content="每个手机添加(次)"></Label>
+                            <TextBox x:Name="txt_PageFriendFriend" Width="200" Text="1"></TextBox>
+                            </TextBlock>
+
+                            <TextBlock x:Name="tbAddPageFriend2">
+                            <Label x:Name="lbl_PageFriendSecoFriend" Content="每次操作间隔(秒)"></Label>
+                            <TextBox x:Name="txt_PageFriendMinFriend" Width="100" Text="5" />
+                            ---
+                            <TextBox x:Name="txt_PageFriendMaxFriend" Width="100" Text="10"></TextBox>
+                            </TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <Button x:Name="btnPageFriendSubmit" Margin="30 5" Click="btnPageFriendSubmit_Click"></Button>
+                        </StackPanel>
+                    </StackPanel>
+
+                </Grid>
+            </TabItem>
+
+            <TabItem x:Name="tabSearchFriend">
+                <TabItem.Header>
+                    <Label x:Name="lblSearchFriend" Content="根据名称搜索好友" MouseLeftButtonDown="lblSearchFriend_MouseLeftButtonDown"></Label>
+                </TabItem.Header>
+
+                <Grid x:Name="gridSearchFriend">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="180"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition Width="450"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <wpf:WpfTreeView x:Name="treeviewSearchFriend"></wpf:WpfTreeView>
+                    <DockPanel Grid.Column="1" LastChildFill="True">
+                        <TextBlock x:Name="lblSearchFriendTips" DockPanel.Dock="Top" Margin="5" TextWrapping="WrapWithOverflow" ></TextBlock>
+                        <TextBox x:Name="tbFriends" md:TextFieldAssist.HasTextAreaBox="True" Margin="10 10 10 50" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" DockPanel.Dock="Bottom"></TextBox>
+                    </DockPanel>
+                    <Grid Grid.Column="2">
+
+                        <StackPanel Margin="10 40">
+                            <StackPanel Orientation="Horizontal" Margin="5">
+                                <TextBlock x:Name="lblSearchCity" Width="160" Margin="5" VerticalAlignment="Center"></TextBlock>
+                                <TextBox x:Name="tbSearchCity" Width="150" Margin="5" md:TextFieldAssist.HasTextAreaBox="True"></TextBox>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" Margin="5">
+                                <TextBlock x:Name="lblAddTimes" Width="160" Margin="5" VerticalAlignment="Center"></TextBlock>
+                                <TextBox x:Name="tbAddTimes" Width="150" Margin="5" md:TextFieldAssist.HasTextAreaBox="True"></TextBox>
+                                <TextBlock x:Name="lblTimes" VerticalAlignment="Center"></TextBlock>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" Margin="5">
+                                <TextBlock x:Name="lblAddInterval" Width="160" Margin="5" VerticalAlignment="Center"></TextBlock>
+                                <TextBox x:Name="tbBeginningInterval" Width="62" Margin="5" md:TextFieldAssist.HasTextAreaBox="True"></TextBox>
+                                <TextBlock VerticalAlignment="Center" Margin="5">-</TextBlock>
+                                <TextBox x:Name="tbEndingInterval" Width="62" Margin="5" md:TextFieldAssist.HasTextAreaBox="True"></TextBox>
+                                <TextBlock x:Name="lblIntervalUnit" VerticalAlignment="Center"></TextBlock>
+                            </StackPanel>
+
+                            <Button x:Name="btnSubmitTask_SearchFriend" Margin="95 10 10 10" Width="150" Click="btnSubmitTask_SearchFriend_Click"></Button>
+
+                            <TextBlock x:Name="lblSearchExplanation" Margin="20" TextWrapping="Wrap"></TextBlock>
+
+                        </StackPanel>
+
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tabAddGroups">
+                <TabItem.Header>
+                    <Label x:Name="lblAddGroups" Content="批量加群（小组）" MouseLeftButtonDown="lblAddGroups_MouseLeftButtonDown"></Label>
+                </TabItem.Header>
+
+                <Grid x:Name="gridAddGroups">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="180"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <wpf:WpfTreeView x:Name="treeviewJoinGroup"></wpf:WpfTreeView>
+                    <StackPanel Grid.Column="1" Margin="20">
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock x:Name="lblAddTimes2" Width="200" VerticalAlignment="Center" Margin="5"></TextBlock>
+                            <TextBox x:Name="tbAddTimes2" Width="150" Margin="5" md:TextFieldAssist.HasTextAreaBox="True"></TextBox>
+                            <TextBlock x:Name="lblTimes2" VerticalAlignment="Center"></TextBlock>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock x:Name="lblAddInterval2" Width="200" Margin="5" VerticalAlignment="Center"></TextBlock>
+                            <TextBox x:Name="tbBeginningInterval2" Width="62" Margin="5" md:TextFieldAssist.HasTextAreaBox="True"></TextBox>
+                            <TextBlock VerticalAlignment="Center" Margin="5">-</TextBlock>
+                            <TextBox x:Name="tbEndingInterval2" Width="62" Margin="5" md:TextFieldAssist.HasTextAreaBox="True"></TextBox>
+                            <TextBlock x:Name="lblIntervalUnit2" VerticalAlignment="Center"></TextBlock>
+                        </StackPanel>
+
+                        <StackPanel Margin="10">
+                            <TextBlock x:Name="lblGroupName" VerticalAlignment="Center" Margin="10">
+                            </TextBlock>
+
+                            <TextBox x:Name="tbGroupName" AcceptsReturn="True" HorizontalAlignment="Left" VerticalScrollBarVisibility="Auto" Width="500" Height="200" Margin="10" md:TextFieldAssist.HasTextAreaBox="True"></TextBox>
+
+                            <TextBlock x:Name="lblGroupExplanation" VerticalAlignment="Center" Margin="10"></TextBlock>
+                        </StackPanel>
+
+                        <Button x:Name="btnSubmitTask_AddGroup" HorizontalAlignment="Left" Margin="200 10 10 10" Width="150" Click="btnSubmitTask_AddGroup_Click"></Button>
+
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+        </TabControl>
+</UserControl>

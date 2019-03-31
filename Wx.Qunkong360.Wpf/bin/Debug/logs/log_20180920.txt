@@ -1,0 +1,55 @@
+﻿
+2018-09-20 17:49:21.081 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-20 17:49:21.113 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-20 17:50:04.124 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-20 17:50:21.778 +08:00 [Error] System.Exception: Fatal error encountered during command execution.
+   在 Xzy.EmbeddedApp.Utils.MySqlHelpers.UpdateSql(String sql) 位置 F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Utils\MysqlHelpers.cs:行号 399
+   在 Cj.AppEmbeddedApp.DAL.SystemConfigDAL.DelSystemConfig(Int32 id) 位置 F:\Work087\Work\FaceBook\Cj.AppEmbeddedApp.DAL\systemconfigDAL.cs:行号 65
+2018-09-20 17:50:24.143 +08:00 [Error] System.Exception: Fatal error encountered during command execution.
+   在 Xzy.EmbeddedApp.Utils.MySqlHelpers.UpdateSql(String sql) 位置 F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Utils\MysqlHelpers.cs:行号 399
+   在 Cj.AppEmbeddedApp.DAL.SystemConfigDAL.DelSystemConfig(Int32 id) 位置 F:\Work087\Work\FaceBook\Cj.AppEmbeddedApp.DAL\systemconfigDAL.cs:行号 65
+2018-09-20 17:50:25.781 +08:00 [Error] System.Exception: Fatal error encountered during command execution.
+   在 Xzy.EmbeddedApp.Utils.MySqlHelpers.UpdateSql(String sql) 位置 F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Utils\MysqlHelpers.cs:行号 399
+   在 Cj.AppEmbeddedApp.DAL.SystemConfigDAL.DelSystemConfig(Int32 id) 位置 F:\Work087\Work\FaceBook\Cj.AppEmbeddedApp.DAL\systemconfigDAL.cs:行号 65
+2018-09-20 17:57:31.452 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-20 17:57:31.489 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-20 17:57:40.114 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-20 17:58:28.461 +08:00 [Error] MakeAppSquirrelAware => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.MakeAppSquirrelAware() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 174
+2018-09-20 17:58:28.501 +08:00 [Error] CheckUpdate => System.Exception: Update.exe not found, not a Squirrel-installed app?
+   在 Squirrel.UpdateManager.getUpdateExe() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 313
+   在 Squirrel.UpdateManager.getApplicationName() 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 292
+   在 Squirrel.UpdateManager..ctor(String urlOrPath, String applicationName, String rootDirectory, IFileDownloader urlDownloader) 位置 C:\Users\paulb\code\Squirrel\squirrel.windows\src\Squirrel\UpdateManager.cs:行号 41
+   在 Wx.Qunkong360.Wpf.App.<CheckUpdate>d__14.MoveNext() 位置 F:\Work087\Work\FaceBook\Wx.Qunkong360.Wpf\App.xaml.cs:行号 225
+2018-09-20 17:58:30.154 +08:00 [Error] 远程验证失败，错误信息:未将对象引用设置到对象的实例。
+2018-09-20 17:59:07.049 +08:00 [Information] 连接成功;key:542ce238-c9aa-461a-831a-7a8236c1cfc7
+2018-09-20 17:59:07.062 +08:00 [Information] 模拟器0绑定成功，IMEI1921680020780000:
+2018-09-20 17:59:49.021 +08:00 [Error] MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'iswhole' in 'field list'
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Xzy.EmbeddedApp.Utils.MySqlHelpers.ExecuteNonQuery(String connectionString, CommandType cmdType, String cmdText, MySqlParameter[] commandParameters) 位置 F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Utils\MysqlHelpers.cs:行号 79
+   在 Cj.AppEmbeddedApp.DAL.TasksDAL.InsertTask(TaskSch tasks) 位置 F:\Work087\Work\FaceBook\Cj.AppEmbeddedApp.DAL\TasksDAL.cs:行号 114

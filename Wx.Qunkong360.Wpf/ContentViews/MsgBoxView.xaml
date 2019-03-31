@@ -1,0 +1,26 @@
+﻿<controls:MetroWindow x:Class="Wx.Qunkong360.Wpf.ContentViews.MsgBoxView"
+                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                  xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+                  mc:Ignorable="d"
+                  Title="MsgBox" 
+                  Height="62" 
+                  Width="600"
+                  ShowActivated="False"
+                  UseNoneWindowStyle="True"
+                      ResizeMode="NoResize"
+                      IsWindowDraggable="False"
+                      Topmost="True"
+                  >
+        <Border BorderBrush="{Binding MsgBorderBrush}" BorderThickness="2" Height="60">
+        <StackPanel Orientation="Horizontal" Background="{Binding MsgBackgroundBrush}">
+                <Image Source="{Binding MsgImage}" Margin="20 0 0 0" Height="38" Width="36" HorizontalAlignment="Left" VerticalAlignment="Center"></Image>
+                <TextBlock Text="{Binding Msg}" FontSize="22" Foreground="#333" VerticalAlignment="Center" Margin="20 0 0 0"></TextBlock>
+            </StackPanel>
+        </Border>
+</controls:MetroWindow>
+
+
+

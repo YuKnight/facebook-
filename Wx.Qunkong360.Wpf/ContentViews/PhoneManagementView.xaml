@@ -1,0 +1,91 @@
+﻿<UserControl x:Class="Wx.Qunkong360.Wpf.ContentViews.PhoneManagementView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Wx.Qunkong360.Wpf"
+             xmlns:wpf="clr-namespace:WpfTreeView;assembly=WpfTreeView"
+             xmlns:ContentViews="clr-namespace:Wx.Qunkong360.Wpf.ContentViews"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800" FontSize="16">
+    <TabControl>
+        <TabItem x:Name="tabPhoneManagement">
+            <TabItem.Header>
+                <Label x:Name="lblPhoneManagement" Content="手机管理" MouseLeftButtonDown="lblPhoneManagement_MouseLeftButtonDown"/>
+            </TabItem.Header>
+
+            <Grid x:Name="gridPhoneManagement" Margin="0,0,0.4,-2.8">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="175" ></ColumnDefinition>
+                    <ColumnDefinition Width="302*"/>
+                    <ColumnDefinition Width="28*"/>
+                </Grid.ColumnDefinitions>
+                <wpf:WpfTreeView x:Name="treeviewReconstructionSimulator"></wpf:WpfTreeView>
+                <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Orientation="Vertical" Margin="20">
+                    <DataGrid x:Name="dgPhoneManagement" MouseLeftButtonUp="dgPhoneManagement_MouseLeftButtonUp" CanUserAddRows="False" GridLinesVisibility="None" RowHeaderWidth="0" IsReadOnly="True" AutoGenerateColumns="False" Height="420">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn x:Name="Id"  Header="ID" Width="50" Binding="{Binding Id}"/>
+                            <DataGridTextColumn x:Name="IMEI" Header="IMEI" Binding="{Binding Imei}"/>
+                            <DataGridTextColumn x:Name="phoneBrand" Header="手机品牌" Binding="{Binding PhoneBrand}"/>
+                            <DataGridTextColumn x:Name="phoneType" Header="手机型号" Binding="{Binding PhoneType}"/>
+                            <DataGridTextColumn x:Name="Imsi" Header="Imsi" Binding="{Binding Imsi}"/>
+                            <DataGridTextColumn x:Name="Androidid"  Header="Androidid" Binding="{Binding Androidid}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <StackPanel Orientation="Horizontal" Margin="25">
+                        <Button x:Name="btnReconstruction" Width="150" Click="btnReconstruction_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </TabItem>
+        
+        <TabItem x:Name="tbLoginManagement">
+            <TabItem.Header>
+                <Label x:Name="lblLoginManagement" Content="Facebook账号管理" MouseLeftButtonDown="lblLoginManagement_MouseLeftButtonDown"/>
+            </TabItem.Header>
+            
+            <Grid x:Name="gdLoginManagement">
+                <DataGrid x:Name="dgAccountManagement" Margin="10" AutoGenerateColumns="False" GridLinesVisibility="None" RowHeaderWidth="0" CanUserDeleteRows="False" CanUserAddRows="False" RenderTransformOrigin="0.537,0.501" FontSize="14">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn x:Name="UserId"  Header="ID" Width="50" Binding="{Binding id}"/>
+                        <DataGridTemplateColumn x:Name="Login" Header="账号" MinWidth="130" Width="0.5*">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBox x:Name="txtLogin" Text="{Binding login_user,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn x:Name="Password" Header="密码" MinWidth="130" Width="0.5*">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBox x:Name="txtPassword" Text="{Binding login_pwd,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn x:Name="Explain" Header="说明" MinWidth="130" Width="0.5*">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBox Text="{Binding explain_detail,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn  MinWidth="200" Width="0.3*" >
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate>
+                                    <Grid HorizontalAlignment="Center">
+                                        <StackPanel Orientation="Horizontal">
+                                            <Button x:Name="btnClearCaching" Content="{Binding Button.btnClearCaching, Source={x:Static ContentViews:Res.Culture}}"  Height="27"   BorderThickness="0"  HorizontalAlignment="Center" Margin="0,0,25,0" VerticalAlignment="Top" Click="btnClearCaching_Click"/>
+                                            <Button x:Name="btnLogin" Content="{Binding Source={x:Static ContentViews:ResD.CultureD},Path=Button.btnLogin}" Width="75" Height="27" BorderThickness="0" HorizontalAlignment="Center"  Margin="0,0,35,0" VerticalAlignment="Top" Click="btnLogin_Click"/>
+                                        </StackPanel>
+                                    </Grid>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Button x:Name="btnSave" Content="{Binding Button.btnSave, Source={x:Static ContentViews:ResA.CultureA}}" MinWidth="130" Width="0.3" HorizontalAlignment="Right" VerticalAlignment="Top"  Click="btnSave_Click" Margin="0,20,32,0" RenderTransformOrigin="0.358,0.531"/>
+            </Grid>
+           
+        </TabItem>
+    </TabControl>
+</UserControl>
