@@ -1,0 +1,14 @@
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\bin\Release\WpfTreeView.dll
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\bin\Release\WpfTreeView.pdb
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\WpfTreeView.g.cs
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\WpfTreeView_MarkupCompile.cache
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\WpfTreeView_MarkupCompile.lref
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\WpfTreeView.baml
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\WpfTreeView.g.resources
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\WpfTreeView.Properties.Resources.resources
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\Wx.EmbeddedApp.WpfTreeView.csproj.GenerateResource.cache
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\Wx.EmbeddedApp.WpfTreeView.csproj.CoreCompileInputs.cache
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\WpfTreeView.dll
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\WpfTreeView.pdb
+F:\Work087\Work\FaceBook\Wx.EmbeddedApp.WpfTreeView\obj\Release\Wx.EmbeddedApp.WpfTreeView.csprojAssemblyReference.cache
