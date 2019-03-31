@@ -1,0 +1,13 @@
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\bin\Release\SocketTestApp.WinForm.exe
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\bin\Release\SocketTestApp.WinForm.pdb
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\bin\Release\Newtonsoft.Json.dll
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\bin\Release\Newtonsoft.Json.xml
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\obj\Release\SocketTestApp.WinForm.csprojAssemblyReference.cache
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\obj\Release\SocketTestApp.WinForm.Form1.resources
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\obj\Release\SocketTestApp.WinForm.Properties.Resources.resources
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\obj\Release\SocketTestApp.WinForm.SocketReceived.resources
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\obj\Release\SocketTestApp.WinForm.csproj.GenerateResource.cache
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\obj\Release\SocketTestApp.WinForm.csproj.CoreCompileInputs.cache
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\obj\Release\SocketTestApp.WinForm.csproj.CopyComplete
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\obj\Release\SocketTestApp.WinForm.exe
+F:\Work087\Work\FaceBook\SocketTestApp.WinForm\obj\Release\SocketTestApp.WinForm.pdb
