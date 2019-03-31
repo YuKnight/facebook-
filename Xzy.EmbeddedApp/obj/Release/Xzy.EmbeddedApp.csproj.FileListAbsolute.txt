@@ -1,0 +1,7 @@
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp\bin\Release\AppContainer.bmp
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp\bin\Release\Xzy.EmbeddedApp.dll
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp\bin\Release\Xzy.EmbeddedApp.pdb
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp\obj\Release\Xzy.EmbeddedApp.csprojAssemblyReference.cache
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp\obj\Release\Xzy.EmbeddedApp.csproj.CoreCompileInputs.cache
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp\obj\Release\Xzy.EmbeddedApp.dll
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp\obj\Release\Xzy.EmbeddedApp.pdb
