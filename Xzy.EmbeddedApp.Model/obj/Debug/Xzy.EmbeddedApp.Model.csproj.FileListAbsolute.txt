@@ -1,0 +1,12 @@
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Model\bin\Debug\Xzy.EmbeddedApp.Model.dll
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Model\bin\Debug\Xzy.EmbeddedApp.Model.pdb
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.csprojAssemblyReference.cache
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.csproj.CoreCompileInputs.cache
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.dll
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.pdb
+G:\BaiduYunDownload\FaceBook20181012\FaceBook\Xzy.EmbeddedApp.Model\bin\Debug\Xzy.EmbeddedApp.Model.dll
+G:\BaiduYunDownload\FaceBook20181012\FaceBook\Xzy.EmbeddedApp.Model\bin\Debug\Xzy.EmbeddedApp.Model.pdb
+G:\BaiduYunDownload\FaceBook20181012\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.csprojAssemblyReference.cache
+G:\BaiduYunDownload\FaceBook20181012\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.csproj.CoreCompileInputs.cache
+G:\BaiduYunDownload\FaceBook20181012\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.dll
+G:\BaiduYunDownload\FaceBook20181012\FaceBook\Xzy.EmbeddedApp.Model\obj\Debug\Xzy.EmbeddedApp.Model.pdb

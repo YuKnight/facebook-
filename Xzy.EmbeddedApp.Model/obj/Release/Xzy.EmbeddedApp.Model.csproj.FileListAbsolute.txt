@@ -1,0 +1,5 @@
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Model\bin\Release\Xzy.EmbeddedApp.Model.dll
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Model\bin\Release\Xzy.EmbeddedApp.Model.pdb
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Model\obj\Release\Xzy.EmbeddedApp.Model.csproj.CoreCompileInputs.cache
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Model\obj\Release\Xzy.EmbeddedApp.Model.dll
+F:\Work087\Work\FaceBook\Xzy.EmbeddedApp.Model\obj\Release\Xzy.EmbeddedApp.Model.pdb
